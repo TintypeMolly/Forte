@@ -1,0 +1,5398 @@
+<response>
+<header>
+<resultCode>00</resultCode>
+<resultMsg>NORMAL SERVICE.</resultMsg>
+</header>
+<body>
+<items>
+<item>
+<stationName>반송로</stationName>
+<addr>경남 창원시 의창구 두대동145번지 시설관리공단 내 실내수영장 앞(원이대로 480)</addr>
+<year>2008</year>
+<oper>경상남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238145/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238145.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.232222</dmX>
+<dmY>128.671389</dmY>
+</item>
+<item>
+<stationName>사파동</stationName>
+<addr>경남 창원시 성산구 사파동(창이대로 706길)106-1(16-23)</addr>
+<year>2009</year>
+<oper>경상남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238146/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238146.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.221729</dmX>
+<dmY>128.69825</dmY>
+</item>
+<item>
+<stationName>경화동</stationName>
+<addr>경남 창원시 진해구 경화로16번길 31병암동주민센터</addr>
+<year>1994</year>
+<oper>경상남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238151/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238151.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.154972</dmX>
+<dmY>128.689578</dmY>
+</item>
+<item>
+<stationName>하동읍</stationName>
+<addr>경남 하동군 하동읍 읍내리180-3번지 하동군청 옥상 (군청로 23)</addr>
+<year>2007</year>
+<oper>경상남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238161/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238161.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.066944</dmX>
+<dmY>127.751389</dmY>
+</item>
+<item>
+<stationName>동상동</stationName>
+<addr>경남 김해시 동상동(호계로 517번길 8)856</addr>
+<year>1995</year>
+<oper>경상남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238181/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238181.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.236667</dmX>
+<dmY>128.883333</dmY>
+</item>
+<item>
+<stationName>삼방동</stationName>
+<addr>경남 김해시 삼방동200번지 (신어초등학교)(활천로 303)</addr>
+<year>2003</year>
+<oper>경상남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238182/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238182.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.243889</dmX>
+<dmY>128.912222</dmY>
+</item>
+<item>
+<stationName>장유동</stationName>
+<addr>경남 김해시 장유동능동로 149 (장유건강지원센터 건물 옥상) (능동로 149)</addr>
+<year>2013</year>
+<oper>경상남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238183/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238183.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.202364</dmX>
+<dmY>128.807221</dmY>
+</item>
+<item>
+<stationName>저구리</stationName>
+<addr>경남 거제시 남부면 저구리산 116번지</addr>
+<year>2009</year>
+<oper>한국환경공단 대구경북지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238191/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238191.gif
+</map>
+<mangName>교외대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>34.71005</dmX>
+<dmY>128.58745</dmY>
+</item>
+<item>
+<stationName>아주동</stationName>
+<addr>경남 거제시 아주동337-26 아주보건지소 (아주로 3길 25)</addr>
+<year>2011</year>
+<oper>경상남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238201/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238201.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>34.864751</dmX>
+<dmY>128.690936</dmY>
+</item>
+<item>
+<stationName>사천읍</stationName>
+<addr>경남 사천시 사천읍읍내로 52 사천읍사무소 (평화리 29)</addr>
+<year>2013</year>
+<oper>경상남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238211/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238211.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.082551</dmX>
+<dmY>128.091236</dmY>
+</item>
+<item>
+<stationName>대산면</stationName>
+<addr>경남 창원시 의창구 대산면 갈전로99번길 100</addr>
+<year>2008</year>
+<oper>한국환경공단 대구경북지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238241/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238241.gif
+</map>
+<mangName>교외대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.371633</dmX>
+<dmY>128.676483</dmY>
+</item>
+<item>
+<stationName>북부동</stationName>
+<addr>경남 양산시 북부동331-2 (양산시 보건소)(북안남 5길 15)</addr>
+<year>1999</year>
+<oper>경상남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238361/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238361.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.345556</dmX>
+<dmY>129.04</dmY>
+</item>
+<item>
+<stationName>웅상읍</stationName>
+<addr>경남 양산시 웅상읍 삼호리783-10 번지 (웅상노인복지회관) (삼호 9길 11)</addr>
+<year>2004</year>
+<oper>경상남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238362/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238362.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.414667</dmX>
+<dmY>129.172083</dmY>
+</item>
+<item>
+<stationName>화산리</stationName>
+<addr>울산 울주군 온산읍 화산리22</addr>
+<year>1986</year>
+<oper>울산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238371/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238371.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.4381</dmX>
+<dmY>129.337633</dmY>
+</item>
+<item>
+<stationName>상남리</stationName>
+<addr>울산 울주군 청량면 상남리(신석하 3길)595-7(5 청량면사무소 옥상)</addr>
+<year>1986</year>
+<oper>울산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238373/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238373.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.49245</dmX>
+<dmY>129.3055</dmY>
+</item>
+<item>
+<stationName>농소동</stationName>
+<addr>울산 북구 호계동(호계7길)726번지 농소중학교(13)</addr>
+<year>2003</year>
+<oper>울산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238374/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238374.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.625579</dmX>
+<dmY>129.355149</dmY>
+</item>
+<item>
+<stationName>삼남면</stationName>
+<addr>울산 울주군 삼남면 교동리(서향교 1길)1605-1(67-12) 울주군보건소 옥상</addr>
+<year>2013</year>
+<oper>울산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238375/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238375.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.558331</dmX>
+<dmY>129.113771</dmY>
+</item>
+<item>
+<stationName>남상면</stationName>
+<addr>경남 거창군 남상면 인평길 36</addr>
+<year>2003</year>
+<oper>한국환경공단 대구경북지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238481/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238481.gif
+</map>
+<mangName>교외대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.643167</dmX>
+<dmY>127.9105</dmY>
+</item>
+<item>
+<stationName>서석동</stationName>
+<addr>광주 동구 서남로 1(동구청보건소)</addr>
+<year>2001</year>
+<oper>광주광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/324115/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/324115.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.14583</dmX>
+<dmY>126.92333</dmY>
+</item>
+<item>
+<stationName>농성동</stationName>
+<addr>광주 서구 상무대로 1165(광주시립미술관 상록전시관 단독건물)</addr>
+<year>1979</year>
+<oper>광주광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/324121/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/324121.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.156651</dmX>
+<dmY>126.889699</dmY>
+</item>
+<item>
+<stationName>치평동</stationName>
+<addr>광주 서구 상무자유로 170(롯데마트 상무점 건너편 인도)</addr>
+<year>2000</year>
+<oper>광주광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/324123/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/324123.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.151625</dmX>
+<dmY>126.853292</dmY>
+</item>
+<item>
+<stationName>두암동</stationName>
+<addr>광주 북구 군왕로 141번길 6(두암보건지소)</addr>
+<year>1994</year>
+<oper>광주광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/324133/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/324133.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.1743</dmX>
+<dmY>126.9325</dmY>
+</item>
+<item>
+<stationName>운암동</stationName>
+<addr>광주 북구 북문대로 79(벽산블루밍아파트 앞 인도)</addr>
+<year>1999</year>
+<oper>광주광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/324134/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/324134.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.176106</dmX>
+<dmY>126.856931</dmY>
+</item>
+<item>
+<stationName>건국동</stationName>
+<addr>광주 북구 첨단과기로 333(광주테크노파크 벤처지원센터 옥상)</addr>
+<year>2007</year>
+<oper>광주광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/324135/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/324135.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/324135.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.23025</dmX>
+<dmY>126.8623</dmY>
+</item>
+<item>
+<stationName>송정1동</stationName>
+<addr>광주 광산구 광산로 70(송정1동 주민센터)</addr>
+<year>1990</year>
+<oper>광주광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/324141/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/324141.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.140733</dmX>
+<dmY>126.798833</dmY>
+</item>
+<item>
+<stationName>오선동</stationName>
+<addr>광주 광산구 하남산단 6번로 107(삼성전자 환경안전센터)</addr>
+<year>2006</year>
+<oper>광주광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/324142/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/324142.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.20413</dmX>
+<dmY>126.8072</dmY>
+</item>
+<item>
+<stationName>주월동</stationName>
+<addr>광주 남구 회서로 21번가길 13(주월1동 주민센터)</addr>
+<year>2004</year>
+<oper>광주광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/324155/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/324155.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.131917</dmX>
+<dmY>126.8933</dmY>
+</item>
+<item>
+<stationName>중앙동(전주)</stationName>
+<addr>전북 전주시 완산구 중앙동32번지 중앙동주민센터 옥상</addr>
+<year>2002</year>
+<oper>전라북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/335115/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/335115.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.823554</dmX>
+<dmY>127.140585</dmY>
+</item>
+<item>
+<stationName>용당동</stationName>
+<addr>전남 목포시 용당2동1053(용당2동 주민센터 2층옥상)</addr>
+<year>1994</year>
+<oper>전라남도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/336111.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>34.80593</dmX>
+<dmY>126.391767</dmY>
+</item>
+<item>
+<stationName>부흥동</stationName>
+<addr>전남 목포시 옥암동1022(부흥동주민센터)</addr>
+<year>2013</year>
+<oper>전라남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/336112/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/336112.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>34.804279</dmX>
+<dmY>126.43457</dmY>
+</item>
+<item>
+<stationName>광무동</stationName>
+<addr>전남 여수시 광무동42-4(여수시민회관)</addr>
+<year>1991</year>
+<oper>전라남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/336121/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/336121.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>34.746958</dmX>
+<dmY>127.727923</dmY>
+</item>
+<item>
+<stationName>월내동</stationName>
+<addr>전남 여수시 월내동1392 (여수산단 월내 패수종말처리장)</addr>
+<year>1996</year>
+<oper>전라남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/336124/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/336124.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>34.850083</dmX>
+<dmY>127.731933</dmY>
+</item>
+<item>
+<stationName>문수동</stationName>
+<addr>전남 여수시 문수동 161-5문수동주민센터 옥상</addr>
+<year>2007</year>
+<oper>전라남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/336125/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/336125.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>34.754549</dmX>
+<dmY>127.70276</dmY>
+</item>
+<item>
+<stationName>여천동(여수)</stationName>
+<addr>전남 여수시 선원동704(여천동주민센터 부지내)</addr>
+<year>1991</year>
+<oper>전라남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/336127/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/336127.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>34.766301</dmX>
+<dmY>127.657507</dmY>
+</item>
+<item>
+<stationName>덕충동</stationName>
+<addr>전남 여수시 덕충안길 95만덕동주민자치센터</addr>
+<year>2012</year>
+<oper>전라남도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/336128.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>34.7539</dmX>
+<dmY>127.7468</dmY>
+</item>
+<item>
+<stationName>장천동</stationName>
+<addr>전남 순천시 장천동53-1(순천시청)</addr>
+<year>1994</year>
+<oper>전라남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/336131/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/336131.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>34.950357</dmX>
+<dmY>127.487189</dmY>
+</item>
+<item>
+<stationName>연향동</stationName>
+<addr>전남 순천시 연향동1379-1번지 순천시 연향도서관 3층 옥상</addr>
+<year>2008</year>
+<oper>전라남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/336132/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/336132.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>34.947102</dmX>
+<dmY>127.518575</dmY>
+</item>
+<item>
+<stationName>순천만</stationName>
+<addr>전남 순천시 대대동162-2 순천만 자연생태관 3층(갈대밭길 15)</addr>
+<year>2009</year>
+<oper>전라남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/336133/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/336133.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>34.885971</dmX>
+<dmY>127.50903</dmY>
+</item>
+<item>
+<stationName>호두리</stationName>
+<addr>전남 순천시 해룡면 호두리276-9 호두정수장 내</addr>
+<year>2009</year>
+<oper>전라남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/336134/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/336134.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>34.892081</dmX>
+<dmY>127.572745</dmY>
+</item>
+<item>
+<stationName>중동</stationName>
+<addr>전남 광양시 중동1312-3(광양소방서)</addr>
+<year>1990</year>
+<oper>전라남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/336352/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/336352.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>34.937342</dmX>
+<dmY>127.693427</dmY>
+</item>
+<item>
+<stationName>태인동</stationName>
+<addr>전남 광양시 태인동1653-4(태인폐수처리장 사무실)</addr>
+<year>1994</year>
+<oper>전라남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/336353/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/336353.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>34.941868</dmX>
+<dmY>127.757069</dmY>
+</item>
+<item>
+<stationName>진상면</stationName>
+<addr>전남 광양시 진상면 섬거리292 (진상면사무소)</addr>
+<year>2002</year>
+<oper>전라남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/336354/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/336354.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.019997</dmX>
+<dmY>127.71962</dmY>
+</item>
+<item>
+<stationName>광양읍</stationName>
+<addr>전남 광양시 광양읍 칠성리70번지</addr>
+<year>2004</year>
+<oper>전라남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/336355/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/336355.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>34.980817</dmX>
+<dmY>127.583116</dmY>
+</item>
+<item>
+<stationName>나불리</stationName>
+<addr>전남 영암군 삼호면 나불리338-3 영암소방서 3층</addr>
+<year>1997</year>
+<oper>전라남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/336441/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/336441.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/336441.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>34.766809</dmX>
+<dmY>126.439193</dmY>
+</item>
+<item>
+<stationName>송단리</stationName>
+<addr>전남 화순군 북면 송단리338번지</addr>
+<year>2006</year>
+<oper>한국환경공단 호남지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/336451/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/336451.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/336451.gif
+</map>
+<mangName>교외대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.177167</dmX>
+<dmY>127.175167</dmY>
+</item>
+<item>
+<stationName>이도동</stationName>
+<addr>제주 제주시 이도2동1176-1(제주시청)</addr>
+<year>1994</year>
+<oper>제주특별자치도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/339111/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/339111.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/339111.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>33.500116</dmX>
+<dmY>126.532371</dmY>
+</item>
+<item>
+<stationName>연동</stationName>
+<addr>제주 제주시 연동322-1 번지 제주특별자치도청 제2청사 옥상</addr>
+<year>2006</year>
+<oper>제주특별자치도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/339112/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/339112.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/339112.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>33.48863</dmX>
+<dmY>126.500055</dmY>
+</item>
+<item>
+<stationName>동홍동</stationName>
+<addr>제주 서귀포시 동홍동453-1(서귀포소방서)</addr>
+<year>2001</year>
+<oper>제주특별자치도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/339121/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/339121.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/339121.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>33.261361</dmX>
+<dmY>126.567093</dmY>
+</item>
+<item>
+<stationName>고산리</stationName>
+<addr>제주 제주시 한경면 고산리3768</addr>
+<year>1998</year>
+<oper>한국환경공단 호남지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/339312/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/339312.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/339312.gif
+</map>
+<mangName>국가배경농도</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>33.292471</dmX>
+<dmY>126.162165</dmY>
+</item>
+<item>
+<stationName>중구</stationName>
+<addr>서울 중구 덕수궁길 15시청서소문별관 3동</addr>
+<year>2001</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111121/INSIDE_OTHER_1.JPG
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111121.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111121.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.564639</dmX>
+<dmY>126.975961</dmY>
+</item>
+<item>
+<stationName>한강대로</stationName>
+<addr>서울 용산구 한강대로 405(서울역 앞)</addr>
+<year>1996</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111122.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.549389</dmX>
+<dmY>126.971519</dmY>
+</item>
+<item>
+<stationName>종로구</stationName>
+<addr>서울 종로구 종로35가길 19(종로5,6가 동 주민센터)</addr>
+<year>1997</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111123/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111123.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111123.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.572025</dmX>
+<dmY>127.005028</dmY>
+</item>
+<item>
+<stationName>청계천로</stationName>
+<addr>서울 중구 청계천로 184(청계천4가사거리 남강빌딩 앞)</addr>
+<year>1994</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111124/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111124.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.56865</dmX>
+<dmY>126.998083</dmY>
+</item>
+<item>
+<stationName>종로</stationName>
+<addr>서울 종로구 종로 169(종묘주차장 앞)</addr>
+<year>2008</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111125.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.570633</dmX>
+<dmY>126.996783</dmY>
+</item>
+<item>
+<stationName>용산구</stationName>
+<addr>서울 용산구 한남대로 136(서울특별시중부기술교육원)</addr>
+<year>1984</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111131/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111131.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111131.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.540314</dmX>
+<dmY>127.005083</dmY>
+</item>
+<item>
+<stationName>광진구</stationName>
+<addr>서울 광진구 광나루로 571구의아리수정수센터</addr>
+<year>1991</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111141/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111141.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111141.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.544639</dmX>
+<dmY>127.095706</dmY>
+</item>
+<item>
+<stationName>성동구</stationName>
+<addr>서울 성동구 뚝섬로 273서울숲 자전거대여소 옆</addr>
+<year>1982</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111142/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111142.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111142.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.543106</dmX>
+<dmY>127.041278</dmY>
+</item>
+<item>
+<stationName>강변북로</stationName>
+<addr>서울 성동구 강변북로 257한강사업본부 옆</addr>
+<year>2009</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111143.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.539283</dmX>
+<dmY>127.040943</dmY>
+</item>
+<item>
+<stationName>중랑구</stationName>
+<addr>서울 중랑구 용마산로 369건강가정지원센터</addr>
+<year>2001</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111151/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111151.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111151.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.584953</dmX>
+<dmY>127.094283</dmY>
+</item>
+<item>
+<stationName>동대문구</stationName>
+<addr>서울 동대문구 천호대로13길 43용두초등학교</addr>
+<year>1984</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111152/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111152.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111152.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.576169</dmX>
+<dmY>127.029642</dmY>
+</item>
+<item>
+<stationName>홍릉로</stationName>
+<addr>서울 동대문구 홍릉로 1(청량리전철역 사거리 SC제일은행 앞)</addr>
+<year>1995</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111154/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111154.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.580167</dmX>
+<dmY>127.044856</dmY>
+</item>
+<item>
+<stationName>성북구</stationName>
+<addr>서울 성북구 삼양로2길 70(길음2동 주민센터)</addr>
+<year>1991</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111161/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111161.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111161.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.606667</dmX>
+<dmY>127.027264</dmY>
+</item>
+<item>
+<stationName>정릉로</stationName>
+<addr>서울 성북구 정릉로 180내부순환로 내선 정릉램프 출구</addr>
+<year>2010</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111162/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111162.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.6077</dmX>
+<dmY>127.0022</dmY>
+</item>
+<item>
+<stationName>도봉구</stationName>
+<addr>서울 도봉구 시루봉로2길 34쌍문동청소년문화의 집</addr>
+<year>1982</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111171/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111171.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.654278</dmX>
+<dmY>127.029333</dmY>
+</item>
+<item>
+<stationName>은평구</stationName>
+<addr>서울 은평구 진흥로 215(한국환경정책평가연구원)</addr>
+<year>1996</year>
+<oper>한국환경공단 수도권지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111181/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111181.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111181.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.610583</dmX>
+<dmY>126.933144</dmY>
+</item>
+<item>
+<stationName>서대문구</stationName>
+<addr>서울 서대문구 연희로32길 51서대문구 자연사박물관</addr>
+<year>1991</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111191/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111191.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.576578</dmX>
+<dmY>126.937972</dmY>
+</item>
+<item>
+<stationName>마포구</stationName>
+<addr>서울 마포구 대흥로 20길 28마포아트센터</addr>
+<year>1984</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111201/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111201.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111201.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.550133</dmX>
+<dmY>126.945167</dmY>
+</item>
+<item>
+<stationName>신촌로</stationName>
+<addr>서울 마포구 노고산동 57-62(신촌역 7번 출구)</addr>
+<year>1994</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111202/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111202.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.554936</dmX>
+<dmY>126.937619</dmY>
+</item>
+<item>
+<stationName>강서구</stationName>
+<addr>서울 강서로45다길 71화곡3동 푸른들청소년도서관</addr>
+<year>1992</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo/>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111212.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111212.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.544656</dmX>
+<dmY>126.835094</dmY>
+</item>
+<item>
+<stationName>공항대로</stationName>
+<addr>서울 강서구 마곡동 727-1091마곡역 중앙차로정류장 옆</addr>
+<year>2010</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111213/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111213.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.562822</dmX>
+<dmY>126.826072</dmY>
+</item>
+<item>
+<stationName>구로구</stationName>
+<addr>서울 구로구 가마산로 27길 45(구로고등학교)</addr>
+<year>1991</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111221/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111221.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111221.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.498498</dmX>
+<dmY>126.889692</dmY>
+</item>
+<item>
+<stationName>영등포구</stationName>
+<addr>서울 영등포구 양산로23길 11(당산1동 주민센터)</addr>
+<year>1997</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111231/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111231.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111231.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.525007</dmX>
+<dmY>126.89737</dmY>
+</item>
+<item>
+<stationName>영등포로</stationName>
+<addr>서울 영등포구 영중로 37(영등포시장사거리)</addr>
+<year>1994</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111232/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111232.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.520222</dmX>
+<dmY>126.904967</dmY>
+</item>
+<item>
+<stationName>동작구</stationName>
+<addr>서울 동작구 사당로16아길 6(사당4동 주민센터)</addr>
+<year>1997</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111241/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111241.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111241.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.480989</dmX>
+<dmY>126.971547</dmY>
+</item>
+<item>
+<stationName>동작대로 중앙차로</stationName>
+<addr>서울 동작구 동작대로 144이수역 북단 버스중앙차로</addr>
+<year>2010</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111242/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111242.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.492107</dmX>
+<dmY>126.983246</dmY>
+</item>
+<item>
+<stationName>관악구</stationName>
+<addr>서울 관악구 신림동길 14신림동 주민센터</addr>
+<year>1979</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111251/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111251.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111251.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.488242</dmX>
+<dmY>126.927089</dmY>
+</item>
+<item>
+<stationName>강남구</stationName>
+<addr>서울 강남구 학동로 426강남구청 별관 1동</addr>
+<year>2003</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111261/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111261.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111261.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.496978</dmX>
+<dmY>127.056558</dmY>
+</item>
+<item>
+<stationName>서초구</stationName>
+<addr>서울 서초구 신반포로15길 16(반포 2동 주민센터)</addr>
+<year>1982</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111262/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111262.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111262.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.504547</dmX>
+<dmY>126.994611</dmY>
+</item>
+<item>
+<stationName>도산대로</stationName>
+<addr>서울 강남구 도산대로 104신사역2번출구 앞</addr>
+<year>1995</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111263/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111263.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.516083</dmX>
+<dmY>127.019694</dmY>
+</item>
+<item>
+<stationName>강남대로</stationName>
+<addr>서울 서초구 강남대로 201서초구민회관 앞 중앙차로</addr>
+<year>2009</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111264.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.482867</dmX>
+<dmY>127.035621</dmY>
+</item>
+<item>
+<stationName>송파구</stationName>
+<addr>서울 송파구 올림픽로 424서울역사편찬원</addr>
+<year>1986</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111273/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111273.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111273.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.521597</dmX>
+<dmY>127.124264</dmY>
+</item>
+<item>
+<stationName>강동구</stationName>
+<addr>서울 강동구 구천면로 42길 59천호1동 주민센터</addr>
+<year>1997</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111274/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111274.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111274.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.545089</dmX>
+<dmY>127.136806</dmY>
+</item>
+<item>
+<stationName>천호대로</stationName>
+<addr>서울 강동구 천호대로 1151길동사거리 강동성모요양병원 앞)</addr>
+<year>2008</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111275/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111275.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.534035</dmX>
+<dmY>127.139172</dmY>
+</item>
+<item>
+<stationName>금천구</stationName>
+<addr>서울 금천구 금하로21길 20(시흥5동 주민센터)</addr>
+<year>1997</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111281/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111281.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111281.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.452386</dmX>
+<dmY>126.908333</dmY>
+</item>
+<item>
+<stationName>강북구</stationName>
+<addr>서울 강북구 덕릉로41길 74번1동 주민센터</addr>
+<year>1997</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111291/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111291.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111291.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.637903</dmX>
+<dmY>127.029119</dmY>
+</item>
+<item>
+<stationName>양천구</stationName>
+<addr>서울 양천구 중앙로52길 56(신정4동 문화센터)</addr>
+<year>1997</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo/>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111301.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111301.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.523286</dmX>
+<dmY>126.858689</dmY>
+</item>
+<item>
+<stationName>노원구</stationName>
+<addr>서울 노원구 상계로 118상계2동 주민센터</addr>
+<year>1997</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/111311/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/111311.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111311.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.657415</dmX>
+<dmY>127.067876</dmY>
+</item>
+<item>
+<stationName>화랑로</stationName>
+<addr>서울 노원구 화랑로 429태능입구역 8번 출구</addr>
+<year>2009</year>
+<oper>서울특별시보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/111312.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.617315</dmX>
+<dmY>127.075319</dmY>
+</item>
+<item>
+<stationName>신풍동</stationName>
+<addr>경기 수원시 팔달구 신풍동123-69(선경도서관)</addr>
+<year>1986</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131111/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131111.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.283798</dmX>
+<dmY>127.010472</dmY>
+</item>
+<item>
+<stationName>인계동</stationName>
+<addr>경기 수원시 팔달구 인계동1111(수원시청)</addr>
+<year>1987</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131112/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131112.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.26334</dmX>
+<dmY>127.02863</dmY>
+</item>
+<item>
+<stationName>광교동</stationName>
+<addr>경기 수원시 영통구 법조로129(하동 981, 이의중학교 옥상)</addr>
+<year>1994</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131113/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131113.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.291272</dmX>
+<dmY>127.070818</dmY>
+</item>
+<item>
+<stationName>영통동</stationName>
+<addr>경기 수원시 팔달구 영통동977-3</addr>
+<year>2001</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131114/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131114.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.246927</dmX>
+<dmY>127.056315</dmY>
+</item>
+<item>
+<stationName>천천동</stationName>
+<addr>경기 수원시 장안구 천천동300(성대 제2공학관)</addr>
+<year>2003</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131115/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131115.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.292756</dmX>
+<dmY>126.975303</dmY>
+</item>
+<item>
+<stationName>동수원</stationName>
+<addr>경기 수원시 팔달구 우만동562-7번지 동수원 4거리 SK생명앞</addr>
+<year>2004</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131116.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.276484</dmX>
+<dmY>127.030676</dmY>
+</item>
+<item>
+<stationName>고색동</stationName>
+<addr>경기 수원시 권선구 고색동886-70</addr>
+<year>2006</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131117.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.252226</dmX>
+<dmY>126.976304</dmY>
+</item>
+<item>
+<stationName>백현동</stationName>
+<addr>경기 성남시 분당구 백현동651-3</addr>
+<year>2011</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131120.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, NO2, PM10, PM2.5</item>
+<dmX>37.380158</dmX>
+<dmY>127.091844</dmY>
+</item>
+<item>
+<stationName>단대동</stationName>
+<addr>경기 성남시 수정구 단대동4888-2(단대동 복지회관)</addr>
+<year>1993</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131121/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131121.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.449479</dmX>
+<dmY>127.155512</dmY>
+</item>
+<item>
+<stationName>정자1동</stationName>
+<addr>경기 성남시 분당구 정자1동147번지 (정자1동 주민센터)</addr>
+<year>1998</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131123/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131123.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.361416</dmX>
+<dmY>127.11153</dmY>
+</item>
+<item>
+<stationName>수내동</stationName>
+<addr>경기 성남시 분당구 수내동1(분당구청)</addr>
+<year>2003</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131124/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131124.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.382662</dmX>
+<dmY>127.119103</dmY>
+</item>
+<item>
+<stationName>모란역</stationName>
+<addr>경기 성남시 수정구 수진2동453번지 모란역 4거리 모란전광판 앞</addr>
+<year>2004</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131125.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.432149</dmX>
+<dmY>127.129021</dmY>
+</item>
+<item>
+<stationName>복정동</stationName>
+<addr>경기 성남시 수정구 복정동515번지 (상수도사업소)</addr>
+<year>2005</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131126.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.45637</dmX>
+<dmY>127.130586</dmY>
+</item>
+<item>
+<stationName>운중동</stationName>
+<addr>경기 성남시 분당구 운중동935 운중동 주민센터</addr>
+<year>2010</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131128.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.390588</dmX>
+<dmY>127.077838</dmY>
+</item>
+<item>
+<stationName>상대원1동</stationName>
+<addr>경기 성남시 중원구 상대원동1451</addr>
+<year>2009</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131129/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131129.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.433169</dmX>
+<dmY>127.164372</dmY>
+</item>
+<item>
+<stationName>의정부동</stationName>
+<addr>경기 의정부시 의정부2동551-2(경기도 도로관리사업소)</addr>
+<year>2007</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131131/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131131.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.735582</dmX>
+<dmY>127.040421</dmY>
+</item>
+<item>
+<stationName>의정부1동</stationName>
+<addr>경기 의정부시 의정부1동225-1 의정부1동 주민센터 옥상</addr>
+<year>2001</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131132/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131132.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.746355</dmX>
+<dmY>127.047652</dmY>
+</item>
+<item>
+<stationName>안양6동</stationName>
+<addr>경기 안양시 만안구 안양6동437-4 안양6동 주민센터</addr>
+<year>1993</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131141/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131141.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.389996</dmX>
+<dmY>126.930583</dmY>
+</item>
+<item>
+<stationName>부림동</stationName>
+<addr>경기 안양시 동안구 부림동1590(안양시청)</addr>
+<year>1998</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131142.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.394327</dmX>
+<dmY>126.956859</dmY>
+</item>
+<item>
+<stationName>호계동</stationName>
+<addr>경기 안양시 동안구 호계2동933-18(호계2동 주민센터)</addr>
+<year>1992</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131144/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131144.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.381136</dmX>
+<dmY>126.952641</dmY>
+</item>
+<item>
+<stationName>안양2동</stationName>
+<addr>경기 안양시 만안구 안양2동842-2번지 안양2동 주민센터</addr>
+<year>2004</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131145.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.402326</dmX>
+<dmY>126.97107</dmY>
+</item>
+<item>
+<stationName>철산동</stationName>
+<addr>경기 광명시 철산동384(광명시 농협중앙회)</addr>
+<year>1986</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131161/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131161.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.476221</dmX>
+<dmY>126.86981</dmY>
+</item>
+<item>
+<stationName>소하동</stationName>
+<addr>경기 광명시 소하동1331 소하도서관 옥상</addr>
+<year>2010</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131163.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.452158</dmX>
+<dmY>126.884909</dmY>
+</item>
+<item>
+<stationName>고잔동</stationName>
+<addr>경기 안산시 단원구 고잔동515(안산시청 옥상)</addr>
+<year>1987</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131191/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131191.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.322304</dmX>
+<dmY>126.832089</dmY>
+</item>
+<item>
+<stationName>원시동</stationName>
+<addr>경기 안산시 단원구 산단로112(민주노총 사무실)</addr>
+<year>1990</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131192.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.305255</dmX>
+<dmY>126.788503</dmY>
+</item>
+<item>
+<stationName>본오동</stationName>
+<addr>경기 안산시 상록구 본오2동796-4(본오2동 주민센터)</addr>
+<year>1998</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131193.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.296107</dmX>
+<dmY>126.87234</dmY>
+</item>
+<item>
+<stationName>원곡동</stationName>
+<addr>경기 안산시 단원구 원곡2동936-5(원곡2동 주민센터)</addr>
+<year>1999</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131194.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.331632</dmX>
+<dmY>126.801758</dmY>
+</item>
+<item>
+<stationName>부곡동1</stationName>
+<addr>경기 안산시 상록구 부곡동671(부곡동 주민센터)</addr>
+<year>2001</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131195.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.332233</dmX>
+<dmY>126.861229</dmY>
+</item>
+<item>
+<stationName>대부동</stationName>
+<addr>경기 안산시 단원구 대부북동467 (대부출장소)</addr>
+<year>2002</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131196/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131196.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.243462</dmX>
+<dmY>126.585286</dmY>
+</item>
+<item>
+<stationName>호수동</stationName>
+<addr>경기 안산시 단원구 고잔(호수)동781-2</addr>
+<year>2004</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131197.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.304889</dmX>
+<dmY>126.833521</dmY>
+</item>
+<item>
+<stationName>중앙로1</stationName>
+<addr>경기 안산시 단원구 고잔1동554-1</addr>
+<year>2009</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131198.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, NO2, PM10</item>
+<dmX>37.316703</dmX>
+<dmY>126.82792</dmY>
+</item>
+<item>
+<stationName>별양동</stationName>
+<addr>경기 과천시 별양동16번지 (문원초등학교)</addr>
+<year>1991</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131201/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131201.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.423889</dmX>
+<dmY>126.994512</dmY>
+</item>
+<item>
+<stationName>과천동</stationName>
+<addr>경기 과천시 과천동249 (환경사업소)</addr>
+<year>2000</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131202.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.448806</dmX>
+<dmY>127.002329</dmY>
+</item>
+<item>
+<stationName>교문동</stationName>
+<addr>경기 구리시 교문동3-2(구리시 체육관)</addr>
+<year>1992</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131211/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131211.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.594459</dmX>
+<dmY>127.129744</dmY>
+</item>
+<item>
+<stationName>동구동</stationName>
+<addr>경기 구리시 인창동56-36(노인아동복지회관)</addr>
+<year>2001</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/131212.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131212.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.604436</dmX>
+<dmY>127.134966</dmY>
+</item>
+<item>
+<stationName>부곡3동</stationName>
+<addr>경기 의왕시 부곡3동부곡중앙남1길 19 (부곡동 주민센터)</addr>
+<year>2002</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131222/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131222.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.319402</dmX>
+<dmY>126.950434</dmY>
+</item>
+<item>
+<stationName>고천동</stationName>
+<addr>경기 의왕시 고천동사그내길 11(고천동 주민센터)</addr>
+<year>2008</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131223/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131223.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.347812</dmX>
+<dmY>126.97592</dmY>
+</item>
+<item>
+<stationName>정왕동</stationName>
+<addr>경기 시흥시 정왕동1799-5 (환경관리센터옥상)</addr>
+<year>2007</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131231/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131231.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.346812</dmX>
+<dmY>126.740083</dmY>
+</item>
+<item>
+<stationName>시화공단</stationName>
+<addr>경기 시흥시 정왕동 시화공단시화공단 2다 401(시화지원센터)</addr>
+<year>1998</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131232/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131232.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.348602</dmX>
+<dmY>126.727109</dmY>
+</item>
+<item>
+<stationName>대야동</stationName>
+<addr>경기 시흥시 대야동491-3(대야동 주민센터)</addr>
+<year>2002</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131233/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131233.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.443057</dmX>
+<dmY>126.788402</dmY>
+</item>
+<item>
+<stationName>금곡동</stationName>
+<addr>경기 남양주시 금곡동185-10(남양주시청)</addr>
+<year>1999</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131241/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131241.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.635612</dmX>
+<dmY>127.216188</dmY>
+</item>
+<item>
+<stationName>오남읍</stationName>
+<addr>경기 남양주시 오남읍 양지리96-10 오남읍사무소</addr>
+<year>2013</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131242/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131242.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.698672</dmX>
+<dmY>127.204729</dmY>
+</item>
+<item>
+<stationName>비전동</stationName>
+<addr>경기 평택시 비전동846(평택시청)</addr>
+<year>1996</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131341.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.992162</dmX>
+<dmY>127.112774</dmY>
+</item>
+<item>
+<stationName>안중</stationName>
+<addr>경기 평택시 안중읍 안중리안중읍사무소 3층 옥상</addr>
+<year>2008</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131342/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131342.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>36.985703</dmX>
+<dmY>126.931939</dmY>
+</item>
+<item>
+<stationName>평택항</stationName>
+<addr>
+경기 평택시 포승읍 만호리(포승읍 평택항로)576-4(184번길 38)한국산업단지공단 평택지사 본관 3층 옥상
+</addr>
+<year>2013</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131343/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131343.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>36.974605</dmX>
+<dmY>126.84554</dmY>
+</item>
+<item>
+<stationName>금촌동</stationName>
+<addr>경기 파주시 금촌동후곡로 13 교육문화회관 별관 옥상</addr>
+<year>2004</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131371.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.756308</dmX>
+<dmY>126.773898</dmY>
+</item>
+<item>
+<stationName>행신동</stationName>
+<addr>경기 고양시 덕양구 행신동 59-3행신배수지</addr>
+<year>1998</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131381/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131381.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.618183</dmX>
+<dmY>126.837689</dmY>
+</item>
+<item>
+<stationName>식사동</stationName>
+<addr>경기 고양시 일산동구 위시티로 151양일초등학교</addr>
+<year>2012</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131382/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131382.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.685514</dmX>
+<dmY>126.813441</dmY>
+</item>
+<item>
+<stationName>마두역</stationName>
+<addr>경기 고양시 일산구 장항2동888</addr>
+<year>2004</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131383.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.648629</dmX>
+<dmY>126.758842</dmY>
+</item>
+<item>
+<stationName>경안동</stationName>
+<addr>경기 광주시 경안동53-4 농협중앙회 옥상</addr>
+<year>2006</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131392.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.411159</dmX>
+<dmY>127.257971</dmY>
+</item>
+<item>
+<stationName>김량장동</stationName>
+<addr>경기 용인시 김량장동처인구 금령로 50 (처인구청 옥상))</addr>
+<year>1999</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131411/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131411.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.234474</dmX>
+<dmY>127.201408</dmY>
+</item>
+<item>
+<stationName>수지</stationName>
+<addr>경기 용인시 풍덕천동(수지)수지구 수지로 342번길3(풍덕천1동 주민센타 옥상)</addr>
+<year>2005</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131412.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.327927</dmX>
+<dmY>127.095215</dmY>
+</item>
+<item>
+<stationName>기흥</stationName>
+<addr>경기 용인시 기흥구 관곡로 95기흥구청사옥상</addr>
+<year>2006</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131413/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131413.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.280224</dmX>
+<dmY>127.11514</dmY>
+</item>
+<item>
+<stationName>구갈동</stationName>
+<addr>경기 용인시 기흥구 구갈동 505-3</addr>
+<year>2012</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131414/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131414.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, NO2, PM10, PM2.5</item>
+<dmX>37.275324</dmX>
+<dmY>127.113744</dmY>
+</item>
+<item>
+<stationName>설성면</stationName>
+<addr>경기 이천시 설성면 신필리산 88-5(전파연구소 입구)</addr>
+<year>2000</year>
+<oper>한국환경공단 수도권지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131441/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/131441.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131441.gif
+</map>
+<mangName>교외대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.138467</dmX>
+<dmY>127.54645</dmY>
+</item>
+<item>
+<stationName>창전동</stationName>
+<addr>경기 이천시 창전동영창로 163번길 28</addr>
+<year>2010</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131442.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.282657</dmX>
+<dmY>127.440513</dmY>
+</item>
+<item>
+<stationName>관인면</stationName>
+<addr>경기 포천시 관인면사정리 140</addr>
+<year>2001</year>
+<oper>한국환경공단 수도권지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131451/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/131451.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131451.gif
+</map>
+<mangName>교외대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>38.123833</dmX>
+<dmY>127.25235</dmY>
+</item>
+<item>
+<stationName>선단동</stationName>
+<addr>경기 포천시 선단동629-1</addr>
+<year>2012</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131453.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.85411</dmX>
+<dmY>127.15906</dmY>
+</item>
+<item>
+<stationName>사우동</stationName>
+<addr>경기 김포시 사우동236-2</addr>
+<year>1999</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131471/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131471.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.619335</dmX>
+<dmY>126.716748</dmY>
+</item>
+<item>
+<stationName>고촌면</stationName>
+<addr>경기 김포시 고촌면신곡리 530-1(고촌면사무소)</addr>
+<year>2001</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131472/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131472.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.606724</dmX>
+<dmY>126.762831</dmY>
+</item>
+<item>
+<stationName>통진읍</stationName>
+<addr>경기 김포시 통진면 마송리111-27(통진면사무소)</addr>
+<year>2001</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131473/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131473.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.6919</dmX>
+<dmY>126.597324</dmY>
+</item>
+<item>
+<stationName>당동</stationName>
+<addr>경기 군포시 당동752-10 (군포도서관)</addr>
+<year>1997</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131501/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131501.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.35368</dmX>
+<dmY>126.945156</dmY>
+</item>
+<item>
+<stationName>산본동</stationName>
+<addr>경기 군포시 금정동844(여성회관)</addr>
+<year>2002</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131502/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131502.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.361658</dmX>
+<dmY>126.933641</dmY>
+</item>
+<item>
+<stationName>오산동</stationName>
+<addr>경기 오산시 경기동로51</addr>
+<year>2000</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131531/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131531.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.159193</dmX>
+<dmY>127.07706</dmY>
+</item>
+<item>
+<stationName>신장동</stationName>
+<addr>경기 하남시 신장2동 대청로 10520(하남시청)</addr>
+<year>2001</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131541/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131541.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.539109</dmX>
+<dmY>127.214608</dmY>
+</item>
+<item>
+<stationName>남양동</stationName>
+<addr>경기 화성시 남양동1340</addr>
+<year>2003</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131551.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.211479</dmX>
+<dmY>126.824001</dmY>
+</item>
+<item>
+<stationName>향남</stationName>
+<addr>경기 화성시 향남면 행정리287-1 (향남면사무소)</addr>
+<year>2004</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131552.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.132356</dmX>
+<dmY>126.920186</dmY>
+</item>
+<item>
+<stationName>동탄동</stationName>
+<addr>경기 화성시 반송동 137동탄2동 주민센터 옥상</addr>
+<year>2008</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131553.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.196921</dmX>
+<dmY>127.0723</dmY>
+</item>
+<item>
+<stationName>백석읍</stationName>
+<addr>경기 양주시 백석읍꿈나무로 199</addr>
+<year>2014</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131561.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.79239</dmX>
+<dmY>126.987168</dmY>
+</item>
+<item>
+<stationName>보산동</stationName>
+<addr>경기 동두천시 싸리말로28(보산동 314-5) 보산동주민센터</addr>
+<year>2006</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131571/INSIDE_OTHER_1.JPG
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131571.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.917603</dmX>
+<dmY>127.061291</dmY>
+</item>
+<item>
+<stationName>봉산동</stationName>
+<addr>경기 안성시 봉산동 시청길 25안성시청 식당동 옥상</addr>
+<year>2008</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131581/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131581.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.007863</dmX>
+<dmY>127.279856</dmY>
+</item>
+<item>
+<stationName>여주</stationName>
+<addr>경기 여주시 하동134-11(중앙동사무소 2층 옥상)</addr>
+<year>2010</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131591/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131591.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.298663</dmX>
+<dmY>127.628936</dmY>
+</item>
+<item>
+<stationName>연천</stationName>
+<addr>경기 연천군 연천읍 차탄리290-1</addr>
+<year>2010</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131601/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131601.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>38.096445</dmX>
+<dmY>127.074844</dmY>
+</item>
+<item>
+<stationName>가평읍</stationName>
+<addr>경기 가평군 가평읍 석봉로 181가평군청 의회동 옥상</addr>
+<year>2011</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131611.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.831217</dmX>
+<dmY>127.509769</dmY>
+</item>
+<item>
+<stationName>양평</stationName>
+<addr>경기 양평군 용문면 용문로 375343 용문도서관 옥상</addr>
+<year>2010</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131621/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/131621.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.4856</dmX>
+<dmY>127.594771</dmY>
+</item>
+<item>
+<stationName>중앙로</stationName>
+<addr>강원 춘천시 중앙로 3가67-1(춘천시보건소 3층 옥상)</addr>
+<year>2003</year>
+<oper>강원도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/132112/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/132112.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/132112.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.875747</dmX>
+<dmY>127.720764</dmY>
+</item>
+<item>
+<stationName>석사동</stationName>
+<addr>강원 춘천시 석사동322-1(석사119안전센터 2층 옥상)</addr>
+<year>2007</year>
+<oper>강원도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/132113/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/132113.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/132113.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.856977</dmX>
+<dmY>127.750062</dmY>
+</item>
+<item>
+<stationName>방산면</stationName>
+<addr>강원 양구군 방산면 송현1리519-2번지 방산배수지 내</addr>
+<year>2000</year>
+<oper>한국환경공단 수도권지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/132401/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/132401.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/132401.gif
+</map>
+<mangName>교외대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>38.224433</dmX>
+<dmY>127.958583</dmY>
+</item>
+<item>
+<stationName>광복동</stationName>
+<addr>부산 중구 광복동1가 9 (광복로 55번길 10)</addr>
+<year>1985</year>
+<oper>부산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/221112/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/221112.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/221112.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.099849</dmX>
+<dmY>129.030344</dmY>
+</item>
+<item>
+<stationName>초량동</stationName>
+<addr>부산 동구 중앙대로349번길(->중앙대로로 넘어가는길)</addr>
+<year>1999</year>
+<oper>부산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/221131/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/221131.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.126753</dmX>
+<dmY>129.046443</dmY>
+</item>
+<item>
+<stationName>아름동</stationName>
+<addr>세종특별자치시 보듬3로 114아름동커뮤니티센터 옥상</addr>
+<year>2015</year>
+<oper>세종시</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/541112/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map/>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.517747</dmX>
+<dmY>127.249653</dmY>
+</item>
+<item>
+<stationName>태종대</stationName>
+<addr>부산 영도구 동삼2동산29-1번지 태종대유원지관리사무소(전망로24)</addr>
+<year>1996</year>
+<oper>한국환경공단 대구경북지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/221141/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/221141.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/221141.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.063038</dmX>
+<dmY>129.080909</dmY>
+</item>
+<item>
+<stationName>전포동</stationName>
+<addr>부산 부산진구 전포동(전포대로 175번길 22)849-10 경남공고</addr>
+<year>1980</year>
+<oper>부산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/221152/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/221152.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/221152.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.153018</dmX>
+<dmY>129.064114</dmY>
+</item>
+<item>
+<stationName>온천동</stationName>
+<addr>부산 동래구 온천2동(중앙대로)동래지하철 건너편(1335번길 24)</addr>
+<year>1997</year>
+<oper>부산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/221162/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/221162.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.206644</dmX>
+<dmY>129.077751</dmY>
+</item>
+<item>
+<stationName>명장동</stationName>
+<addr>부산 동래구 명장동133-5 명장1동 주민센터(명장로 32)</addr>
+<year>2002</year>
+<oper>부산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/221163/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/221163.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/221163.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.204728</dmX>
+<dmY>129.1042</dmY>
+</item>
+<item>
+<stationName>대연동</stationName>
+<addr>부산 남구 대연동918-1(수영로 196번길 80)</addr>
+<year>1983</year>
+<oper>부산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/221172/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/221172.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/221172.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.129493</dmX>
+<dmY>129.086128</dmY>
+</item>
+<item>
+<stationName>학장동</stationName>
+<addr>부산 사상구 학장동대동로 413 학장초등학교 옥상</addr>
+<year>1979</year>
+<oper>부산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/221181/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/221181.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/221181.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.154292</dmX>
+<dmY>128.979342</dmY>
+</item>
+<item>
+<stationName>덕천동</stationName>
+<addr>부산 북구 덕천동365-1(만덕대로 155번길 81)</addr>
+<year>1988</year>
+<oper>부산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/221182/INSIDE_OTHER_1.JPG
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/221182.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/221182.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.215858</dmX>
+<dmY>129.019883</dmY>
+</item>
+<item>
+<stationName>청룡동</stationName>
+<addr>부산 금정구 청룡동31-14 청룡노포동 주민센터 옥상(청룡로25)</addr>
+<year>2002</year>
+<oper>부산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/221191/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/221191.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/221191.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.274045</dmX>
+<dmY>129.090793</dmY>
+</item>
+<item>
+<stationName>좌동</stationName>
+<addr>부산 해운대구 좌1동1458-2번지 (좌1동 주민센터 옥상)</addr>
+<year>2005</year>
+<oper>부산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/221192/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/221192.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/221192.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.170887</dmX>
+<dmY>129.174062</dmY>
+</item>
+<item>
+<stationName>장림동</stationName>
+<addr>부산 사하구 장림동1140(161번길 2)</addr>
+<year>1991</year>
+<oper>부산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/221202/INSIDE_OTHER_1.JPG
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/221202.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/221202.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.082937</dmX>
+<dmY>128.967648</dmY>
+</item>
+<item>
+<stationName>대저동</stationName>
+<addr>부산 강서구 대저1동(낙동북로)1619 (236)</addr>
+<year>1999</year>
+<oper>부산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/221211/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/221211.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.210105</dmX>
+<dmY>128.955002</dmY>
+</item>
+<item>
+<stationName>녹산동</stationName>
+<addr>부산 강서구 송정동(주) 삼성전기 부산사업장(녹산산업중로 333)</addr>
+<year>2003</year>
+<oper>부산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/221212/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/221212.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/221212.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.094304</dmX>
+<dmY>128.855046</dmY>
+</item>
+<item>
+<stationName>연산동</stationName>
+<addr>부산 연제구 연산5동1300 (중앙대로 1065번길 14)</addr>
+<year>1996</year>
+<oper>부산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/221221/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/221221.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/221221.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.184734</dmX>
+<dmY>129.078112</dmY>
+</item>
+<item>
+<stationName>기장읍</stationName>
+<addr>부산 기장군 기장읍 동부리320번지(읍내로 69)</addr>
+<year>1999</year>
+<oper>부산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/221231/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/221231.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/221231.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.246423</dmX>
+<dmY>129.212088</dmY>
+</item>
+<item>
+<stationName>용수리</stationName>
+<addr>부산 기장군 정관면 용수리(용수로4)141번지 정관면주민센터</addr>
+<year>2004</year>
+<oper>부산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/221233/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/221233.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/221233.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.325306</dmX>
+<dmY>129.178434</dmY>
+</item>
+<item>
+<stationName>수정동</stationName>
+<addr>부산 동구 수정2동806-74 동구청(구청로1)</addr>
+<year>2011</year>
+<oper>부산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/221241/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/221241.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.129415</dmX>
+<dmY>128.584137</dmY>
+</item>
+<item>
+<stationName>부곡동</stationName>
+<addr>부산 금정구 부곡로 156번길 7부곡 2동 주민센터</addr>
+<year>2000</year>
+<oper>부산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/221251/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/221251.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/221251.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.229749</dmX>
+<dmY>129.09266</dmY>
+</item>
+<item>
+<stationName>광안동</stationName>
+<addr>부산 수영구 광안4동1276-1 옥상</addr>
+<year>2001</year>
+<oper>부산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/221271/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/221271.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/221271.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.152309</dmX>
+<dmY>129.108101</dmY>
+</item>
+<item>
+<stationName>대신동</stationName>
+<addr>부산 서구 대신로 150부산국민체육센터 3층 옥상</addr>
+<year>2012</year>
+<oper>부산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/221281/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/221281.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.114404</dmX>
+<dmY>129.017251</dmY>
+</item>
+<item>
+<stationName>회원동</stationName>
+<addr>경남 창원시 마산회원구 회원동52-11(회원1동 주민센터) (회원동11길 7)</addr>
+<year>1993</year>
+<oper>경상남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238111/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238111.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.21815</dmX>
+<dmY>128.57425</dmY>
+</item>
+<item>
+<stationName>봉암동</stationName>
+<addr>경남 창원시 마산회원구 봉암동472-10 봉암동 주민센터 (봉양로 148)</addr>
+<year>2003</year>
+<oper>경상남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238112/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238112.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.2175</dmX>
+<dmY>128.6025</dmY>
+</item>
+<item>
+<stationName>대송동</stationName>
+<addr>울산 동구 대송동(대송5길)148-2 (10)</addr>
+<year>1999</year>
+<oper>울산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238120/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/238120.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238120.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.502833</dmX>
+<dmY>129.41455</dmY>
+</item>
+<item>
+<stationName>성남동</stationName>
+<addr>울산 중구 성남동219-137(만남의 거리 14) 성남119안전센터</addr>
+<year>1983</year>
+<oper>울산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238121/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238121.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.554067</dmX>
+<dmY>129.31995</dmY>
+</item>
+<item>
+<stationName>부곡동(울산)</stationName>
+<addr>울산 남구 부곡동12125-2 (처용로 260-37)</addr>
+<year>2000</year>
+<oper>울산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238122/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/238122.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238122.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.497267</dmX>
+<dmY>129.338967</dmY>
+</item>
+<item>
+<stationName>여천동(울산)</stationName>
+<addr>울산 남구 여천동(납도로)250번지 (90)</addr>
+<year>1983</year>
+<oper>울산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238123/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/238123.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238123.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.516367</dmX>
+<dmY>129.35925</dmY>
+</item>
+<item>
+<stationName>야음동</stationName>
+<addr>울산 남구 야음동 (수암로)789-12번지(170) 야음중학교</addr>
+<year>1986</year>
+<oper>울산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238124/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/238124.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238124.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.526111</dmX>
+<dmY>129.325833</dmY>
+</item>
+<item>
+<stationName>삼산동</stationName>
+<addr>울산 남구 삼산동1513-13 삼산동 주민센터 옥상</addr>
+<year>2000</year>
+<oper>울산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238125/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/238125.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238125.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.544367</dmX>
+<dmY>129.3318</dmY>
+</item>
+<item>
+<stationName>신정2동</stationName>
+<addr>울산 남구 신정2동(문수로)1674(436 공업로타리)</addr>
+<year>1999</year>
+<oper>울산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238126/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238126.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.532203</dmX>
+<dmY>129.307442</dmY>
+</item>
+<item>
+<stationName>신정동</stationName>
+<addr>울산 남구 신정동(봉월로)1210-9(20번길)</addr>
+<year>1993</year>
+<oper>울산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238127/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/238127.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238127.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.534722</dmX>
+<dmY>129.308056</dmY>
+</item>
+<item>
+<stationName>덕신리</stationName>
+<addr>울산 울주군 온산읍 덕신리(명봉거남로)36-4(2)</addr>
+<year>1993</year>
+<oper>울산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238128/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/238128.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238128.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.434783</dmX>
+<dmY>129.314517</dmY>
+</item>
+<item>
+<stationName>무거동</stationName>
+<addr>울산 남구 무거동(대학로)1522-2 (147번길 38)</addr>
+<year>1999</year>
+<oper>울산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238129/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/238129.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238129.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.551</dmX>
+<dmY>129.260783</dmY>
+</item>
+<item>
+<stationName>효문동</stationName>
+<addr>울산 북구 효문동616-8(효문펌프장내)</addr>
+<year>2005</year>
+<oper>울산광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238130/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238130.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.559667</dmX>
+<dmY>129.371167</dmY>
+</item>
+<item>
+<stationName>상봉동</stationName>
+<addr>경남 진주시 상봉동858-17(상봉동 주민센터)(비봉로 85번길 12)</addr>
+<year>1995</year>
+<oper>경상남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238131/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238131.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.198267</dmX>
+<dmY>128.07805</dmY>
+</item>
+<item>
+<stationName>대안동</stationName>
+<addr>경남 진주시 대안동(진주대로 1052)11-10</addr>
+<year>1997</year>
+<oper>경상남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238132/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238132.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.193333</dmX>
+<dmY>128.084167</dmY>
+</item>
+<item>
+<stationName>상대동</stationName>
+<addr>경남 진주시 상대동33-85 (동진로 279)</addr>
+<year>1998</year>
+<oper>경상남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238133/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238133.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.2102</dmX>
+<dmY>128.1241</dmY>
+</item>
+<item>
+<stationName>명서동</stationName>
+<addr>경남 창원시 의창구 명서동111번지(명서2동 주민센터)</addr>
+<year>1993</year>
+<oper>경상남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238141/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238141.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.243417</dmX>
+<dmY>128.64175</dmY>
+</item>
+<item>
+<stationName>웅남동</stationName>
+<addr>경남 창원시 성산구 웅남동43-1(효성에바라) (공단로 303)</addr>
+<year>2002</year>
+<oper>경상남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238142/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238142.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.217333</dmX>
+<dmY>128.656617</dmY>
+</item>
+<item>
+<stationName>가음정동</stationName>
+<addr>경남 창원시 성산구 가음정동LG전자창원1공장 391-2(LG전자)</addr>
+<year>1997</year>
+<oper>경상남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238143/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238143.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.206733</dmX>
+<dmY>128.6865</dmY>
+</item>
+<item>
+<stationName>용지동</stationName>
+<addr>
+경남 창원시 의창구 용지동62-1번지 용지동 주민센터 3층 옥상 (용지로 239번길 19-4)
+</addr>
+<year>2007</year>
+<oper>경상남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/238144/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/238144.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.236111</dmX>
+<dmY>128.683889</dmY>
+</item>
+<item>
+<stationName>요촌동</stationName>
+<addr>전북 김제시 요촌중길 50요촌동 주민센터 옥상</addr>
+<year>2015</year>
+<oper>전라북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/735181/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map/>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.80491</dmX>
+<dmY>126.891416</dmY>
+</item>
+<item>
+<stationName>이곡동</stationName>
+<addr>대구 달서구 이곡동1258-2</addr>
+<year>2016</year>
+<oper>대구광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/422202/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map/>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.851204</dmX>
+<dmY>128.511529</dmY>
+</item>
+<item>
+<stationName>진천읍</stationName>
+<addr>충북 진천군 진천읍 상산로 65읍내리 370-1</addr>
+<year>2016</year>
+<oper>충청북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/633411/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map/>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.855015</dmX>
+<dmY>127.441312</dmY>
+</item>
+<item>
+<stationName>신원동</stationName>
+<addr>경기 고양시 덕양구 신원2로 24고양 신원도서관 옥상</addr>
+<year>2015</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/131384/INSIDE_OTHER_1.JPG
+</photo>
+<vrml/>
+<map/>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.666362</dmX>
+<dmY>126.886708</dmY>
+</item>
+<item>
+<stationName>부안군</stationName>
+<addr>전북 부안군 부안읍 수정길 9-8부안군 수도사업소 옥상</addr>
+<year>2016</year>
+<oper>전라북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/735171/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map/>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.724121</dmX>
+<dmY>127.228369</dmY>
+</item>
+<item>
+<stationName>수창동</stationName>
+<addr>대구 중구 수창동73 (수창초등학교)(달성로 22길 30)</addr>
+<year>1999</year>
+<oper>대구광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/422114/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/422114.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/422114.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.874296</dmX>
+<dmY>128.584137</dmY>
+</item>
+<item>
+<stationName>지산동</stationName>
+<addr>대구 수성구 지산동761-11(한국환경공단) (무학로 209)</addr>
+<year>1999</year>
+<oper>대구광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/422115/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/422115.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/422115.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.83047</dmX>
+<dmY>128.631555</dmY>
+</item>
+<item>
+<stationName>서호동</stationName>
+<addr>대구 동구 서호동 25-1(안심로49길 70)반야월초등학교 옥상</addr>
+<year>2001</year>
+<oper>대구광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/422121/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/422121.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/422121.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.869103</dmX>
+<dmY>128.711015</dmY>
+</item>
+<item>
+<stationName>이현동</stationName>
+<addr>대구 서구 이현동48-60 (중리초등학교)(국채보상로 135)</addr>
+<year>1994</year>
+<oper>대구광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/422132/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/422132.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/422132.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.869552</dmX>
+<dmY>128.545324</dmY>
+</item>
+<item>
+<stationName>평리동</stationName>
+<addr>대구 서구 평리3동730-1 (대평중학교내) (통학로 217)</addr>
+<year>1998</year>
+<oper>대구광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/422133/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/422133.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.880276</dmX>
+<dmY>128.562492</dmY>
+</item>
+<item>
+<stationName>대명동</stationName>
+<addr>대구 남구 성당로30길55성명초등학교별관3층옥상</addr>
+<year>1981</year>
+<oper>대구광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/422141/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/422141.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/422141.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.845499</dmX>
+<dmY>128.573333</dmY>
+</item>
+<item>
+<stationName>노원동</stationName>
+<addr>대구 북구 노원동3가 262번지(삼영초등학교)(3공단로 14길 31)</addr>
+<year>1989</year>
+<oper>대구광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/422153/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/422153.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/422153.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.89428</dmX>
+<dmY>128.562848</dmY>
+</item>
+<item>
+<stationName>신암동</stationName>
+<addr>대구 동구 신암동72-1 (신암5동사무소)(아양로 37길 92)</addr>
+<year>1997</year>
+<oper>대구광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/422154/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/422154.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/422154.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.889756</dmX>
+<dmY>128.633063</dmY>
+</item>
+<item>
+<stationName>태전동</stationName>
+<addr>대구 북구 태전동1076-5 (태암초등학교)(칠곡중앙대로 52길 56)</addr>
+<year>2003</year>
+<oper>대구광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/422155/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/422155.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/422155.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.921939</dmX>
+<dmY>128.544655</dmY>
+</item>
+<item>
+<stationName>만촌동</stationName>
+<addr>대구 수성구 만촌2동934 (동원초등학교)(국채보상로 1000)</addr>
+<year>1995</year>
+<oper>대구광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/422161/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/422161.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/422161.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.865276</dmX>
+<dmY>128.640032</dmY>
+</item>
+<item>
+<stationName>호림동</stationName>
+<addr>대구 달서구 성서공단로 11길 32대구기계부품연구원 1동 옥상</addr>
+<year>2014</year>
+<oper>대구광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/422171/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/422171.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.837878</dmX>
+<dmY>128.488732</dmY>
+</item>
+<item>
+<stationName>현풍면</stationName>
+<addr>대구 달성군 현풍면부리 247 (상수도사업본부 달성사업소)(현풍중앙로 144-34)</addr>
+<year>2003</year>
+<oper>대구광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/422201/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/422201.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/422201.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.699754</dmX>
+<dmY>128.441723</dmY>
+</item>
+<item>
+<stationName>장흥동</stationName>
+<addr>경북 포항시 남구 철강로 331공단정수장</addr>
+<year>1989</year>
+<oper>경상북도보건환경연구원</oper>
+<photo/>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/437112.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/437112.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.980182</dmX>
+<dmY>129.374795</dmY>
+</item>
+<item>
+<stationName>장량동</stationName>
+<addr>경북 포항시 북구 삼흥로 98북구보건소</addr>
+<year>1999</year>
+<oper>경상북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/437113/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/437113.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/437113.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.070725</dmX>
+<dmY>129.380278</dmY>
+</item>
+<item>
+<stationName>대도동</stationName>
+<addr>경북 포항시 남구 대도동111-6(상대2동주민센터)</addr>
+<year>1997</year>
+<oper>경상북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/437114/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/437114.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/437114.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.018833</dmX>
+<dmY>129.365867</dmY>
+</item>
+<item>
+<stationName>대송면</stationName>
+<addr>경북 포항시 남구 대송면홍계길19 (대송면사무소 2층옥상)</addr>
+<year>2005</year>
+<oper>경상북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/437115/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/437115.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/437115.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.968522</dmX>
+<dmY>129.359954</dmY>
+</item>
+<item>
+<stationName>3공단</stationName>
+<addr>경북 포항시 남구 대송면 옥명리526(3공단 배수지)</addr>
+<year>2010</year>
+<oper>경상북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/437116/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/437116.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.963042</dmX>
+<dmY>129.376848</dmY>
+</item>
+<item>
+<stationName>성건동</stationName>
+<addr>경북 경주시 성건동667-3(성건동주민센터)</addr>
+<year>1994</year>
+<oper>경상북도보건환경연구원</oper>
+<photo/>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/437122.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/437122.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.850801</dmX>
+<dmY>129.207344</dmY>
+</item>
+<item>
+<stationName>신음동</stationName>
+<addr>경북 김천시 신음동1284 (김천시청 옥상)</addr>
+<year>2009</year>
+<oper>경상북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/437131/INSIDE_OTHER_1.JPG
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/437131.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/437131.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.139828</dmX>
+<dmY>128.113672</dmY>
+</item>
+<item>
+<stationName>남문동</stationName>
+<addr>경북 안동시 남문동189-5 (안동초등학교 옥상)</addr>
+<year>1992</year>
+<oper>경상북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/437141/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/437141.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/437141.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>36.564207</dmX>
+<dmY>128.728086</dmY>
+</item>
+<item>
+<stationName>공단동</stationName>
+<addr>경북 구미시 공단동256-18 (근로자종합복지회)</addr>
+<year>1992</year>
+<oper>경상북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/437151/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/437151.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/437151.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>36.105052</dmX>
+<dmY>128.384038</dmY>
+</item>
+<item>
+<stationName>원평동</stationName>
+<addr>경북 구미시 원평동56-4(구미중앙로 24)</addr>
+<year>1991</year>
+<oper>경상북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/437152/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/437152.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/437152.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.130742</dmX>
+<dmY>128.32579</dmY>
+</item>
+<item>
+<stationName>형곡동</stationName>
+<addr>경북 구미시 형곡동142(구미시립도서관)</addr>
+<year>1997</year>
+<oper>경상북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/437153/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/437153.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/437153.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.114033</dmX>
+<dmY>128.335603</dmY>
+</item>
+<item>
+<stationName>4공단</stationName>
+<addr>경북 구미시 산동면봉산리 567(첨단기업1로 17)</addr>
+<year>2010</year>
+<oper>경상북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/437154/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/437154.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.151209</dmX>
+<dmY>128.449875</dmY>
+</item>
+<item>
+<stationName>휴천동</stationName>
+<addr>경북 영주시 휴천2동318-4 (휴천2동주민센터)</addr>
+<year>2000</year>
+<oper>경상북도보건환경연구원</oper>
+<photo/>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/437161.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/437161.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.810018</dmX>
+<dmY>128.621826</dmY>
+</item>
+<item>
+<stationName>중방동</stationName>
+<addr>경북 경산시 중방동 708-5남매로 158 경산시보건소 정신보건센터 2층</addr>
+<year>2011</year>
+<oper>경상북도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/437171.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.825174</dmX>
+<dmY>128.743217</dmY>
+</item>
+<item>
+<stationName>지품면</stationName>
+<addr>경북 영덕군 지품면 신안리산 6-2</addr>
+<year>1999</year>
+<oper>한국환경공단 대구경북지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/437371/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/437371.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/437371.gif
+</map>
+<mangName>교외대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>36.447446</dmX>
+<dmY>129.288041</dmY>
+</item>
+<item>
+<stationName>화북면</stationName>
+<addr>경북 영천시 화북면천문로 2304-21(화북정수장내)</addr>
+<year>2003</year>
+<oper>한국환경공단 대구경북지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/437401/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/437401.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/437401.gif
+</map>
+<mangName>교외대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>36.112801</dmX>
+<dmY>128.92785</dmY>
+</item>
+<item>
+<stationName>안계면</stationName>
+<addr>경북 의성군 안계면 위양2길 9-26</addr>
+<year>2006</year>
+<oper>한국환경공단 대구경북지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/437411/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/437411.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/437411.gif
+</map>
+<mangName>교외대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>36.3692</dmX>
+<dmY>128.456533</dmY>
+</item>
+<item>
+<stationName>태하리</stationName>
+<addr>경북 울릉군 서면 태하리산99-3 (울릉군 항로표지관리소)</addr>
+<year>1996</year>
+<oper>한국환경공단 대구경북지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/437541/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/437541.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/437541.gif
+</map>
+<mangName>국가배경농도</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.518636</dmX>
+<dmY>130.797097</dmY>
+</item>
+<item>
+<stationName>읍내동</stationName>
+<addr>대전 대덕구 읍내동450-11(태아산업(주))</addr>
+<year>1988</year>
+<oper>대전광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/525111/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/525111.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/525111.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.372778</dmX>
+<dmY>127.417222</dmY>
+</item>
+<item>
+<stationName>문평동</stationName>
+<addr>대전 대덕구 문평동79-1(소방파출소)</addr>
+<year>2002</year>
+<oper>대전광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/525112/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/525112.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/525112.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.446944</dmX>
+<dmY>127.404722</dmY>
+</item>
+<item>
+<stationName>문창동</stationName>
+<addr>대전 중구 문창동116-15 문창동 주민센터</addr>
+<year>2004</year>
+<oper>대전광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/525121/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/525121.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/525121.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.316111</dmX>
+<dmY>127.437778</dmY>
+</item>
+<item>
+<stationName>구성동</stationName>
+<addr>대전 유성구 대학로 407보건환경연구원</addr>
+<year>2007</year>
+<oper>대전광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/525141/INSIDE_OTHER_1.JPG
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/525141.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/525141.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.372411</dmX>
+<dmY>127.373938</dmY>
+</item>
+<item>
+<stationName>노은동</stationName>
+<addr>대전 유성구 노은동 546번지노은1동 주민센터 3층 옥상</addr>
+<year>2011</year>
+<oper>대전광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/525142/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/525142.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.3682</dmX>
+<dmY>127.3185</dmY>
+</item>
+<item>
+<stationName>대흥동1</stationName>
+<addr>대전 중구 대흥동630-1번지 선 도로부지</addr>
+<year>1997</year>
+<oper>대전광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/525151/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/525151.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.323889</dmX>
+<dmY>127.418333</dmY>
+</item>
+<item>
+<stationName>성남동1</stationName>
+<addr>대전 동구 성남동8-2(성남 2동 주민센터)</addr>
+<year>2003</year>
+<oper>대전광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/525161/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/525161.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/525161.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.344444</dmX>
+<dmY>127.437222</dmY>
+</item>
+<item>
+<stationName>정림동</stationName>
+<addr>대전 서구 정림동636(정림동 주민센터)</addr>
+<year>2004</year>
+<oper>대전광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/525171/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/525171.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/525171.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.304667</dmX>
+<dmY>127.366717</dmY>
+</item>
+<item>
+<stationName>둔산동</stationName>
+<addr>대전 서구 둔산동1304번지 근로자 종합복지회관(3층 옥상)</addr>
+<year>2006</year>
+<oper>대전광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/525172/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/525172.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/525172.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.354444</dmX>
+<dmY>127.383056</dmY>
+</item>
+<item>
+<stationName>월평동</stationName>
+<addr>대전 서구 월평동1528번지 도로부지(월평자동차종합시장앞)</addr>
+<year>2007</year>
+<oper>대전광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/525173/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/525173.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.351111</dmX>
+<dmY>127.354167</dmY>
+</item>
+<item>
+<stationName>송정동(봉명동)</stationName>
+<addr>충북 청주시 흥덕구 직지대로 62070</addr>
+<year>1989</year>
+<oper>충청북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/533112/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/533112.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/533112.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.644697</dmX>
+<dmY>127.436808</dmY>
+</item>
+<item>
+<stationName>사천동</stationName>
+<addr>
+충북 청주시 청원구 사천동233-223번지(사뜸로 61번길 88-14), 청주청원도서관 옥상(2층)
+</addr>
+<year>1994</year>
+<oper>충청북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/533113/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/533113.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/533113.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.66608</dmX>
+<dmY>127.474924</dmY>
+</item>
+<item>
+<stationName>문화동</stationName>
+<addr>충북 청주시 상당구 문화동89번지(상당로 92), 충북도청 동관 4층 옥상</addr>
+<year>2002</year>
+<oper>충청북도보건환경연구원</oper>
+<photo/>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/533114.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/533114.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.635758</dmX>
+<dmY>127.492324</dmY>
+</item>
+<item>
+<stationName>용암동</stationName>
+<addr>충북 청주시 상당구 용암동1590(중흥로 29), 용암1동 주민센터 3층 옥상</addr>
+<year>2004</year>
+<oper>충청북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/533115/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/533115.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/533115.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.608818</dmX>
+<dmY>127.501293</dmY>
+</item>
+<item>
+<stationName>복대동</stationName>
+<addr>충북 청주시 흥덕구 복대동111 산단육거리 교차점광장</addr>
+<year>2007</year>
+<oper>충청북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/533116/INSIDE_OTHER_1.JPG
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/533116.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.634423</dmX>
+<dmY>127.447045</dmY>
+</item>
+<item>
+<stationName>성황동</stationName>
+<addr>충남 천안시 동남구 복자1길 24문성어린이집</addr>
+<year>1993</year>
+<oper>충청남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/534111/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/534111.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/534111.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.814171</dmX>
+<dmY>127.152144</dmY>
+</item>
+<item>
+<stationName>백석동</stationName>
+<addr>충남 천안시 백석동555-57번지(백성농공단지)</addr>
+<year>2002</year>
+<oper>충청남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/534112/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/534112.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/534112.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.825139</dmX>
+<dmY>127.110639</dmY>
+</item>
+<item>
+<stationName>성성동</stationName>
+<addr>충남 천안시 성성동1-23번지</addr>
+<year>2008</year>
+<oper>충청남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/534114/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/534114.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>36.839225</dmX>
+<dmY>127.137578</dmY>
+</item>
+<item>
+<stationName>사곡면</stationName>
+<addr>충남 공주시 사곡면 마곡사로293-106(사곡중학교)</addr>
+<year>2003</year>
+<oper>한국환경공단 충청지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/534341/INSIDE_OTHER_1.jpeg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/534341.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/534341.gif
+</map>
+<mangName>교외대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>36.526284</dmX>
+<dmY>127.030853</dmY>
+</item>
+<item>
+<stationName>독곶리</stationName>
+<addr>충남 서산시 대산읍 독곶리123-20(농협지소)</addr>
+<year>2017</year>
+<oper>충청남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/534421/INSIDE_OTHER_1.JPG
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/534421.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/534421.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.99159</dmX>
+<dmY>126.368236</dmY>
+</item>
+<item>
+<stationName>동문동</stationName>
+<addr>충남 서산시 동문동918-3(서산초등학교)</addr>
+<year>1996</year>
+<oper>충청남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/534422/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/534422.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.780177</dmX>
+<dmY>126.455459</dmY>
+</item>
+<item>
+<stationName>난지도리</stationName>
+<addr>충남 당진시 석문면 난지도리533</addr>
+<year>2004</year>
+<oper>충청남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/534431/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/534431.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/534431.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.021151</dmX>
+<dmY>126.46236</dmY>
+</item>
+<item>
+<stationName>정곡리</stationName>
+<addr>충남 당진시 송악면 정곡리66-12번지 정곡마을회관2층옥상</addr>
+<year>2007</year>
+<oper>충청남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/534432/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/534432.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/534432.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.941865</dmX>
+<dmY>126.723492</dmY>
+</item>
+<item>
+<stationName>모종동</stationName>
+<addr>충남 아산시 모종동573-2 보건소옥상</addr>
+<year>2007</year>
+<oper>충청남도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/534441/INSIDE_OTHER_1.JPG
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/534441.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/534441.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.782917</dmX>
+<dmY>127.0145</dmY>
+</item>
+<item>
+<stationName>파도리</stationName>
+<addr>충남 태안군 소원면 파도길51-19</addr>
+<year>1994</year>
+<oper>한국환경공단 충청지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/534461/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/534461.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/534461.gif
+</map>
+<mangName>교외대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>36.736316</dmX>
+<dmY>126.132168</dmY>
+</item>
+<item>
+<stationName>중앙동(원주)</stationName>
+<addr>강원 원주시 학성동206-6(중앙2동주민센터)</addr>
+<year>1988</year>
+<oper>강원도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/632121/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/632121.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/632121.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.352806</dmX>
+<dmY>127.947541</dmY>
+</item>
+<item>
+<stationName>명륜동</stationName>
+<addr>강원 원주시 명륜동242-2(원주지방환경청)</addr>
+<year>1992</year>
+<oper>강원도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/632122/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/632122.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/632122.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.336863</dmX>
+<dmY>127.947929</dmY>
+</item>
+<item>
+<stationName>옥천동</stationName>
+<addr>강원 강릉시 옥천동327-2(옥천동주민센터)</addr>
+<year>2000</year>
+<oper>강원도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/632132/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/632132.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/632132.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.760133</dmX>
+<dmY>128.902849</dmY>
+</item>
+<item>
+<stationName>천곡동</stationName>
+<addr>강원 동해시 천곡동806 (동해시청 4층 옥상)</addr>
+<year>1996</year>
+<oper>강원도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/632151/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/632151.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/632151.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.524794</dmX>
+<dmY>129.114045</dmY>
+</item>
+<item>
+<stationName>남양동1</stationName>
+<addr>강원 삼척시 남양동339-1 (남양동 주민센터 3층 옥상)</addr>
+<year>2006</year>
+<oper>강원도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/632161/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/632161.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/632161.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.44254</dmX>
+<dmY>129.168344</dmY>
+</item>
+<item>
+<stationName>북평면</stationName>
+<addr>강원 정선군 북평면 남평리412-1번지</addr>
+<year>2003</year>
+<oper>한국환경공단 수도권지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/632371/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/632371.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/632371.gif
+</map>
+<mangName>교외대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.43005</dmX>
+<dmY>128.664717</dmY>
+</item>
+<item>
+<stationName>간성읍</stationName>
+<addr>강원 고성군 간성읍흘리 산 1-92(동원농산내 야산)</addr>
+<year>2011</year>
+<oper>한국환경공단 수도권지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/632421/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/632421.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/632421.gif
+</map>
+<mangName>교외대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>38.285319</dmX>
+<dmY>128.390769</dmY>
+</item>
+<item>
+<stationName>치악산</stationName>
+<addr>강원 횡성군 강림면 강림리(치악산)1538번지 강림면사무소 옥상</addr>
+<year>2007</year>
+<oper>한국환경공단 수도권지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/632431/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/632431.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/632431.gif
+</map>
+<mangName>교외대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.360494</dmX>
+<dmY>128.12555</dmY>
+</item>
+<item>
+<stationName>호암동</stationName>
+<addr>충북 충주시 호암동562(충주시 청소년수련원 옥상)(중원대로 3324)</addr>
+<year>1988</year>
+<oper>충청북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/633122/INSIDE_OTHER_1.JPG
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/633122.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/633122.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.964567</dmX>
+<dmY>127.926158</dmY>
+</item>
+<item>
+<stationName>칠금동</stationName>
+<addr>충북 충주시 칠금동874번지(칠금동 주민센터 옥상)(칠금 중랑로 37)</addr>
+<year>2006</year>
+<oper>충청북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/633123/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/633123.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.982086</dmX>
+<dmY>127.919206</dmY>
+</item>
+<item>
+<stationName>장락동</stationName>
+<addr>충북 제천시 장락동672-8(내제로 318),(시립도서관 주차장 옆, 화단)</addr>
+<year>1991</year>
+<oper>충청북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/633131/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/633131.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/633131.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.145137</dmX>
+<dmY>128.220664</dmY>
+</item>
+<item>
+<stationName>오창읍</stationName>
+<addr>충북 청주시 청원구 오창읍 각리637-4 각리중학교 4층(오창중앙로 48)</addr>
+<year>2010</year>
+<oper>충청북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/633211/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/633211.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.709057</dmX>
+<dmY>127.421992</dmY>
+</item>
+<item>
+<stationName>매포읍</stationName>
+<addr>충북 단양군 매포읍 평동리1274(평동33길 3),(매포 보건지소 마당)</addr>
+<year>2011</year>
+<oper>충청북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/633311/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/633311.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.0334</dmX>
+<dmY>128.2957</dmY>
+</item>
+<item>
+<stationName>청천면</stationName>
+<addr>충북 괴산군 청천면 송문로 덕평길54-13(덕평민원봉사실)</addr>
+<year>2001</year>
+<oper>한국환경공단 충청지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/633361/INSIDE_OTHER_1.jpeg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/633361.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/633361.gif
+</map>
+<mangName>교외대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>36.730926</dmX>
+<dmY>127.804682</dmY>
+</item>
+<item>
+<stationName>삼천동</stationName>
+<addr>전북 전주시 완산구 삼천동 2가182-1 삼천도서관 옥상</addr>
+<year>2006</year>
+<oper>전라북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/735111/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/735111.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/735111.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.8235</dmX>
+<dmY>127.1406</dmY>
+</item>
+<item>
+<stationName>팔복동</stationName>
+<addr>전북 전주시 덕진구 팔복동3가404번지 청소년자유센터 옥상</addr>
+<year>1997</year>
+<oper>전라북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/735114/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/735114.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/735114.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.851533</dmX>
+<dmY>127.087</dmY>
+</item>
+<item>
+<stationName>금암동</stationName>
+<addr>전북 전주시 덕진구 금암동796</addr>
+<year>2003</year>
+<oper>전라북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/735116/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/735116.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.836971</dmX>
+<dmY>127.133025</dmY>
+</item>
+<item>
+<stationName>신풍동2</stationName>
+<addr>전북 군산시 신풍동13-1 신풍동주민센터 옥상</addr>
+<year>1999</year>
+<oper>전라북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/735121/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/735121.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/735121.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.97285</dmX>
+<dmY>126.700733</dmY>
+</item>
+<item>
+<stationName>소룡동</stationName>
+<addr>전북 군산시 소룡동176-1 두산백화사무실 2층옥상</addr>
+<year>2008</year>
+<oper>전라북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/735122/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/735122.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/735122.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.973333</dmX>
+<dmY>126.651417</dmY>
+</item>
+<item>
+<stationName>개정동</stationName>
+<addr>전북 군산시 개정동507-24 개정동주민센터 2층옥상</addr>
+<year>1997</year>
+<oper>전라북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/735123/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/735123.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/735123.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.964433</dmX>
+<dmY>126.754533</dmY>
+</item>
+<item>
+<stationName>남중동</stationName>
+<addr>전북 익산시 남중동1가 60번지 (익산시청)</addr>
+<year>2011</year>
+<oper>전라북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/735132/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/735132.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/735132.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.945317</dmX>
+<dmY>126.9602</dmY>
+</item>
+<item>
+<stationName>팔봉동</stationName>
+<addr>전북 익산시 팔봉동850</addr>
+<year>2004</year>
+<oper>전라북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/735133/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/735133.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/735133.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.961633</dmX>
+<dmY>127.004233</dmY>
+</item>
+<item>
+<stationName>모현동</stationName>
+<addr>전북 익산시 모현동2가 303-1익산시 청소년문화의 집 옥상</addr>
+<year>2011</year>
+<oper>전라북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/735134/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/735134.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.9546</dmX>
+<dmY>126.9414</dmY>
+</item>
+<item>
+<stationName>연지동</stationName>
+<addr>전북 정읍시 중앙로 73(연지동 39-6)</addr>
+<year>2005</year>
+<oper>전라북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/735141/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/735141.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/735141.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.570267</dmX>
+<dmY>126.849067</dmY>
+</item>
+<item>
+<stationName>죽항동</stationName>
+<addr>전북 남원시 죽항동 비석길 72죽항동주민센터 옥상</addr>
+<year>2002</year>
+<oper>전라북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/735151/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/735151.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/735151.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.409278</dmX>
+<dmY>127.384754</dmY>
+</item>
+<item>
+<stationName>고창읍</stationName>
+<addr>전북 고창군 고창읍 월곡리619번지 고창군 여성회관 2층 옥상</addr>
+<year>2010</year>
+<oper>전라북도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/735161/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/735161.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>35.438094</dmX>
+<dmY>126.71279</dmY>
+</item>
+<item>
+<stationName>운암면</stationName>
+<addr>전북 임실군 운암면 선거리51-10</addr>
+<year>2000</year>
+<oper>한국환경공단 호남지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/735351/inside_other_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/735351.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/735351.gif
+</map>
+<mangName>교외대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>35.610533</dmX>
+<dmY>127.186217</dmY>
+</item>
+<item>
+<stationName>신흥</stationName>
+<addr>인천 중구 신흥동 2가18-4 보건환경연구원 옥상(서해대로 471)</addr>
+<year>2014</year>
+<oper>인천광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/823611/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/823611.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/823611.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.468333</dmX>
+<dmY>126.635</dmY>
+</item>
+<item>
+<stationName>송림</stationName>
+<addr>인천 동구 송림동109-2번지 동구의회 옥상</addr>
+<year>2012</year>
+<oper>인천광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/823621/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/823621.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/823621.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.473818</dmX>
+<dmY>126.643199</dmY>
+</item>
+<item>
+<stationName>구월동</stationName>
+<addr>인천 남동구 구월동1296-6 구월4동 주민센터 옥상</addr>
+<year>2006</year>
+<oper>인천광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/823631/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/823631.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/823631.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.449722</dmX>
+<dmY>126.724167</dmY>
+</item>
+<item>
+<stationName>숭의</stationName>
+<addr>인천 남구 숭의동131-1번지(독정이로 95)남구의회 옥상</addr>
+<year>2006</year>
+<oper>인천광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/823632/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/823632.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/823632.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.463889</dmX>
+<dmY>126.65</dmY>
+</item>
+<item>
+<stationName>석바위</stationName>
+<addr>인천 남구 주안6동1587(석바위 삼거리)</addr>
+<year>2008</year>
+<oper>인천광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/823633/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/823633.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.457778</dmX>
+<dmY>126.690833</dmY>
+</item>
+<item>
+<stationName>부평역</stationName>
+<addr>인천 부평구 부평3동186-218(신촌사거리)</addr>
+<year>2010</year>
+<oper>인천광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/823634/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/823634.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.482874</dmX>
+<dmY>126.704943</dmY>
+</item>
+<item>
+<stationName>부평</stationName>
+<addr>인천 부평구 부평4동440-1(부평대로88번길 19)부평동초등학교</addr>
+<year>2006</year>
+<oper>인천광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/823641/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/823641.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/823641.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.5</dmX>
+<dmY>126.724167</dmY>
+</item>
+<item>
+<stationName>연희</stationName>
+<addr>인천 서구 심곡동244 서구청 본관</addr>
+<year>2005</year>
+<oper>인천광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/823651/INSIDE_OTHER_1.JPG
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/823651.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/823651.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.545556</dmX>
+<dmY>126.675833</dmY>
+</item>
+<item>
+<stationName>검단</stationName>
+<addr>인천 서구 마전동665(검단로502번길 15)검단출장소</addr>
+<year>2014</year>
+<oper>인천광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/823652/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/823652.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/823652.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.602222</dmX>
+<dmY>126.661389</dmY>
+</item>
+<item>
+<stationName>계산</stationName>
+<addr>인천 계양구 계산동907-4(계양산로134번길 18) 계양도서관 3층 옥상</addr>
+<year>2006</year>
+<oper>인천광역시보건환경연구원</oper>
+<photo/>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/823662.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/823662.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.546111</dmX>
+<dmY>126.730278</dmY>
+</item>
+<item>
+<stationName>고잔</stationName>
+<addr>인천 남동구 고잔동637번지 한국산업단지관리공단 경인지역본부 옥상</addr>
+<year>2009</year>
+<oper>인천광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/823671/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/823671.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/823671.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.404839</dmX>
+<dmY>126.697158</dmY>
+</item>
+<item>
+<stationName>석남</stationName>
+<addr>인천 서구 석남동573번지(거북로 116) 석남2동 주민센터</addr>
+<year>2008</year>
+<oper>인천광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/823681/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/823681.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/823681.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.502778</dmX>
+<dmY>126.674722</dmY>
+</item>
+<item>
+<stationName>송해</stationName>
+<addr>인천 강화군 송해면솔정리 357-2(전망대로 29) 송해면사무소</addr>
+<year>2009</year>
+<oper>인천광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/823691/INSIDE_OTHER_1.bmp
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/823691.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/823691.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.764444</dmX>
+<dmY>126.463333</dmY>
+</item>
+<item>
+<stationName>동춘</stationName>
+<addr>인천 연수구 동춘동923-5 연수구의회 옥상</addr>
+<year>2007</year>
+<oper>인천광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/823701/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/823701.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/823701.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.409493</dmX>
+<dmY>126.678309</dmY>
+</item>
+<item>
+<stationName>신흥동</stationName>
+<addr>세종특별자치시 조치원읍 군청로 87-16세종특별자치시의회 청사 옥상</addr>
+<year>2015</year>
+<oper>세종시</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/541111/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map/>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>36.592906</dmX>
+<dmY>127.292253</dmY>
+</item>
+<item>
+<stationName>운서</stationName>
+<addr>인천 중구 운서동2709-1번지 영마루 공원 내</addr>
+<year>2007</year>
+<oper>인천광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/823702/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/823702.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/823702.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.49659</dmX>
+<dmY>126.487769</dmY>
+</item>
+<item>
+<stationName>송현</stationName>
+<addr>인천 동구 송현동119번지 송현변전소</addr>
+<year>2007</year>
+<oper>인천광역시보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/823703.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.480664</dmX>
+<dmY>126.63582</dmY>
+</item>
+<item>
+<stationName>논현</stationName>
+<addr>인천 남동구 논현동논현 제2 근린공원 내</addr>
+<year>2007</year>
+<oper>인천광역시보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/823704/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/823704.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/823704.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.404167</dmX>
+<dmY>126.726111</dmY>
+</item>
+<item>
+<stationName>원당</stationName>
+<addr>인천 서구 원당동원당지구 76B 1L 검단선사박물관</addr>
+<year>2005</year>
+<oper>인천광역시보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/823801.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.5941</dmX>
+<dmY>126.6986</dmY>
+</item>
+<item>
+<stationName>소사본동</stationName>
+<addr>경기 부천시 소사구 경인옛로 72(소사구청 소향관)</addr>
+<year>2012</year>
+<oper>한국환경공단 수도권지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/831151/INSIDE_OTHER_1.JPG
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/831151.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.480006</dmX>
+<dmY>126.799936</dmY>
+</item>
+<item>
+<stationName>내동</stationName>
+<addr>경기 부천시 오정구 삼작로 114(신흥동주민센터)</addr>
+<year>1986</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/831152/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/831152.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.519908</dmX>
+<dmY>126.773668</dmY>
+</item>
+<item>
+<stationName>중2동</stationName>
+<addr>경기 부천시 원미구 심중로 121(책마루도서관)</addr>
+<year>1997</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/831153/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/831153.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.493927</dmX>
+<dmY>126.770095</dmY>
+</item>
+<item>
+<stationName>오정동</stationName>
+<addr>경기 부천시 오정구 성오로 172(오정구청아트홀)</addr>
+<year>2000</year>
+<oper>경기도보건환경연구원</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/831154/INSIDE_OTHER_1.bmp
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/831154.gif
+</map>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.526617</dmX>
+<dmY>126.8065</dmY>
+</item>
+<item>
+<stationName>계남공원</stationName>
+<addr>경기 부천시 원미구 중4동1030-3 (계남공원 사거리)</addr>
+<year/>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/831155.gif
+</map>
+<mangName>도로변대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.506538</dmX>
+<dmY>126.759193</dmY>
+</item>
+<item>
+<stationName>석모리</stationName>
+<addr>인천 강화군 삼산면 석모리347-4(해병 1935부대)</addr>
+<year>1997</year>
+<oper>한국환경공단 수도권지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/831481/inside_other_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/831481.gif
+</map>
+<mangName>교외대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.70805</dmX>
+<dmY>126.28135</dmY>
+</item>
+<item>
+<stationName>덕적도</stationName>
+<addr>인천 옹진군 덕적면 진리산 35-4번지</addr>
+<year>2007</year>
+<oper>한국환경공단 수도권지역본부</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/831491/INSIDE_OTHER_1.jpg
+</photo>
+<vrml>http://www.airkorea.or.kr/airkorea/vrml/831491.swf</vrml>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/831491.gif
+</map>
+<mangName>교외대기</mangName>
+<item>SO2, CO, O3, NO2, PM10</item>
+<dmX>37.233041</dmX>
+<dmY>126.149272</dmY>
+</item>
+<item>
+<stationName>백령도</stationName>
+<addr>인천 옹진군 백령면 연화리산1025-1</addr>
+<year>2007</year>
+<oper>한국환경공단</oper>
+<photo>
+http://www.airkorea.or.kr/airkorea/station_photo/NAMIS/station_images/831492/INSIDE_OTHER_1.jpg
+</photo>
+<vrml/>
+<map>
+http://www.airkorea.or.kr/airkorea/station_map/831492.gif
+</map>
+<mangName>국가배경농도</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.938413</dmX>
+<dmY>124.645669</dmY>
+</item>
+<item>
+<stationName>운정</stationName>
+<addr>경기 파주시 야당동331-9</addr>
+<year>2012</year>
+<oper>경기도보건환경연구원</oper>
+<photo/>
+<vrml/>
+<map/>
+<mangName>도시대기</mangName>
+<item>SO2, CO, O3, NO2, PM10, PM2.5</item>
+<dmX>37.723148</dmX>
+<dmY>126.756434</dmY>
+</item>
+</items>
+<numOfRows>999999</numOfRows>
+<pageNo>1</pageNo>
+<totalCount>323</totalCount>
+</body>
+</response>
