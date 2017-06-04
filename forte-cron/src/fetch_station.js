@@ -23,7 +23,7 @@ const fetchStation = async (station) => {
         if (dec.declarations[0].id.name.endsWith('3')) {
             const observationName = dec.declarations[0].id.name.replace('JSONObject', '').replace('_3', '');
             const rawData = toValue(dec.declarations[0].init);
-            const observationValue = rawData.rows[rawData.rows.length - 1].c[1];
+            const observationValue = rawData.rows[rawData.rows.length - 1].c[1].v;
             observations[observationName] = observationValue;
         }
     }
