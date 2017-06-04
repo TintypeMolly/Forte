@@ -18,7 +18,7 @@ const Station = sequelize.define('station', {
 });
 
 const Observation = sequelize.define('observation', {
-    'uuid': {type: Sequelize.STRING, primaryKey: true},
+    'station_id': {type: Sequelize.STRING, primaryKey: true},
     'so2': {type: Sequelize.DOUBLE},
     'co': {type: Sequelize.DOUBLE},
     'o3': {type: Sequelize.DOUBLE},
