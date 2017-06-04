@@ -18,26 +18,18 @@ const Station = sequelize.define('station', {
 });
 
 const Observation = sequelize.define('observation', {
-    'station_id': {
-        type: Sequelize.STRING,
-        primaryKey: true,
-        references: {model: Station, key: 'uuid'},
-    },
     'so2': {type: Sequelize.DOUBLE},
     'co': {type: Sequelize.DOUBLE},
     'o3': {type: Sequelize.DOUBLE},
     'no2': {type: Sequelize.DOUBLE},
     'pm10': {type: Sequelize.DOUBLE},
     'pm25': {type: Sequelize.DOUBLE},
-    'last_modified': {
-        type: Sequelize.DATE,
-        defaultValue: Date.now,
-        onUpdate: Date.now,
-    },
 }, {
     charset: 'utf8',
     collate: 'utf8_unicode_ci',
 });
+
+Station.hasOne(Observation, {as: 'observation', foreignKey: 'station_id'});
 
 export {
     sequelize,
