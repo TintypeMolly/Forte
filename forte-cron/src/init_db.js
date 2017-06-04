@@ -1,5 +1,5 @@
 import stations from './stations.json';
-import {Station, Observation} from '../../forte-model';
+import {Station} from '../../forte-model';
 
 const initDB = () => {
     for (const station of stations) {
