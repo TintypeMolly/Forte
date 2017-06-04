@@ -33,3 +33,9 @@ const Observation = sequelize.define('observation', {
         onUpdate: Date.now,
     },
 });
+
+export {
+    sequelize,
+    Station,
+    Observation,
+};
