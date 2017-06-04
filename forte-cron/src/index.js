@@ -1,4 +1,7 @@
-import request from 'request-promise';
 import stations from './stations.json';
+import fetchStation from './fetch_station';
 
-console.log(stations);
+export {
+    stations,
+    fetchStation,
+};
