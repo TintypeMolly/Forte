@@ -1,0 +1,17 @@
+[Unit]
+Description=Forte
+
+[Service]
+ExecStart=npm start
+WorkingDirectory=/home/tintypemolly/forte/forte-server
+Restart=always
+RestartSec=10
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=Forte
+User=tintypemolly
+Group=tintypemolly
+Environment=NODE_ENV=production
+
+[Install]
+WantedBy=multi-user.target
