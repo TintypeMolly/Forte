@@ -1,5 +1,4 @@
 import Sequelize from 'sequelize';
-import {stations} from '../../forte-cron';
 
 const sequelize = new Sequelize('forte', 'forte', 'BDfdssx4BqthXFxpmWE5');
 
