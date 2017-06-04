@@ -6,7 +6,7 @@ const app = express();
 const getData = (req, res) => {
     Station.findAll({include: Observation}).then(stations => {
         const data = stations.map(s => s.get({plain: true}));
-        res.send(JSON.stringify(data));
+        res.json(data);
     });
 };
 
