@@ -12,6 +12,9 @@ const Station = sequelize.define('station', {
     'dmX': {type: Sequelize.DOUBLE},
     'dmY': {type: Sequelize.DOUBLE},
     'uuid': {type: Sequelize.STRING, primaryKey: true},
+}, {
+    charset: 'utf8',
+    collate: 'utf8_unicode_ci',
 });
 
 const Observation = sequelize.define('observation', {
