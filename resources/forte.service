@@ -1,8 +1,12 @@
+# cf. https://expressjs.com/en/advanced/pm.html
+# $ cp <this_file> /etc/systemd/system/forte.service
+# $ systemctl enable forte.service
+
 [Unit]
 Description=Forte
 
 [Service]
-ExecStart=npm start
+ExecStart=/usr/bin/npm start
 WorkingDirectory=/home/tintypemolly/forte/forte-server
 Restart=always
 RestartSec=10
