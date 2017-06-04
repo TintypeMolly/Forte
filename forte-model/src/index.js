@@ -18,7 +18,11 @@ const Station = sequelize.define('station', {
 });
 
 const Observation = sequelize.define('observation', {
-    'station_id': {type: Sequelize.STRING, primaryKey: true},
+    'station_id': {
+        type: Sequelize.STRING,
+        primaryKey: true,
+        references: {model: Station, key: 'uuid'},
+    },
     'so2': {type: Sequelize.DOUBLE},
     'co': {type: Sequelize.DOUBLE},
     'o3': {type: Sequelize.DOUBLE},
@@ -29,8 +33,6 @@ const Observation = sequelize.define('observation', {
     charset: 'utf8',
     collate: 'utf8_unicode_ci',
 });
-
-Station.hasOne(Observation, {as: 'observation', foreignKey: 'station_id'});
 
 export {
     sequelize,
