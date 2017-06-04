@@ -34,6 +34,9 @@ const Observation = sequelize.define('observation', {
         defaultValue: Date.now,
         onUpdate: Date.now,
     },
+}, {
+    charset: 'utf8',
+    collate: 'utf8_unicode_ci',
 });
 
 export {
