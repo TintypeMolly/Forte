@@ -17,4 +17,6 @@ const initDB = () => {
     }
 };
 
+initDB();
+
 export default initDB;
