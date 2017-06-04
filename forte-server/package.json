@@ -13,5 +13,8 @@
     "babel-cli": "^6.24.1",
     "babel-preset-latest": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
   }
 }
