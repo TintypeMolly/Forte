@@ -4,16 +4,17 @@ import { connect } from 'react-redux'
 
 import store from '../../store';
 import { getStationData } from '../../actions';
+import Marker from './marker';
 
 class Index extends Component {
   componentDidMount() {
     getStationData().then(action => {
       store.dispatch(action);
+    }).catch(() => {
+      console.error('fail to fetch');
     });
   }
   render() {
-    console.log('hey');
-    console.log(this.props);
     return (
       <div style={{display: 'flex', flexDirection: 'column', minHeight: '100%', width:'100%'}}>
         <div style={{width: '100%', flex: 0}}>This is index page</div>
@@ -28,9 +29,7 @@ class Index extends Component {
           >
             {
               this.props.stations.map(station => (
-                <div key={station.uuid} center={{lat: station.dmX, lng: station.dmY}}>
-                  {station.observation.pm25}
-                </div>
+                <Marker key={station.uuid} lat={station.dmX} lng={station.dmY} station={station}/>
               ))
             }
           </GoogleMap>
@@ -44,7 +43,6 @@ class Index extends Component {
 }
 
 const mapStateToProps = (state) => {
-  console.log(state);
   return {
     stations: state.stations.data,
   };
