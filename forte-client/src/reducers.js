@@ -38,4 +38,5 @@ const mapReducer = (state = mapInitialState, action) => {
 
 export default {
   stations: stationReducer,
+  map: mapReducer,
 };

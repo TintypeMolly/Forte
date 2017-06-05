@@ -25,4 +25,5 @@ const setMapCenter = (lat, lng) => {
 export {
   getStationData,
   setCurrentStation,
+  setMapCenter,
 }

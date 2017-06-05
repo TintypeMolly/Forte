@@ -3,8 +3,9 @@ import GoogleMap from 'google-map-react';
 import { connect } from 'react-redux'
 
 import store from '../../store';
-import { getStationData } from '../../actions';
+import { getStationData, setCurrentStation, setMapCenter } from '../../actions';
 import Marker from './marker';
+import {findNearestActiveStation} from './util'
 
 class Index extends Component {
   componentDidMount() {
@@ -15,6 +16,11 @@ class Index extends Component {
     });
   }
   render() {
+    const onMapClick = ({x, y, lat, lng, event}) => {
+      const nearestStation = findNearestActiveStation(this.props.stations, lat, lng);
+      store.dispatch(setCurrentStation(nearestStation));
+      store.dispatch(setMapCenter(lat, lng));
+    };
     return (
       <div style={{display: 'flex', flexDirection: 'column', minHeight: '100%', width:'100%'}}>
         <div style={{width: '100%', flex: 0}}>This is index page</div>
@@ -24,8 +30,9 @@ class Index extends Component {
               key: "AIzaSyBUBNOFCXmHCkj2LcmI2f8tmYRN9-QPAqA",
               language: "ko",
             }}
-            center={{lat:37.5658, lng:126.9386}}
+            center={this.props.center}
             zoom={13}
+            onClick={onMapClick}
           >
             {
               this.props.stations.map(station => (
@@ -46,6 +53,7 @@ const mapStateToProps = (state) => {
   return {
     stations: state.stations.data,
     currentStation: state.stations.currentStation,
+    center: state.map.center,
   };
 };
 
