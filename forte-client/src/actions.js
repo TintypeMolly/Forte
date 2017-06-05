@@ -8,6 +8,21 @@ const getStationData = async () => {
   }
 };
 
+const setCurrentStation = (station) => {
+  return {
+    type: 'SET_CURRENT_STATION',
+    data: station,
+  }
+};
+
+const setMapCenter = (lat, lng) => {
+  return {
+    type: 'SET_MAP_CENTER',
+    location: {lat, lng},
+  };
+};
+
 export {
   getStationData,
+  setCurrentStation,
 }

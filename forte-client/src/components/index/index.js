@@ -35,7 +35,7 @@ class Index extends Component {
           </GoogleMap>
         </div>
         <div style={{width: '100%', flex: 1}}>
-          Do you see the map
+          {this.props.currentStation ? JSON.stringify(this.props.currentStation) : '관측소를 선택하세요'}
         </div>
       </div>
     );
@@ -45,6 +45,7 @@ class Index extends Component {
 const mapStateToProps = (state) => {
   return {
     stations: state.stations.data,
+    currentStation: state.stations.currentStation,
   };
 };
 
