@@ -1,10 +1,5 @@
 import React, { Component } from 'react';
 import Paper from 'material-ui/Paper';
-import {connect} from 'react-redux'
-
-const browserSelector = ({browser}) => {
-  return {browser}
-};
 
 const getUnit = (type) => {
   switch (type) {
@@ -64,7 +59,8 @@ const getAlertLevel = (type, station) => {
   return levels[level];
 };
 
-const Circle = ({size, color, style}) => {
+const Circle = ({color, style}) => {
+  const size = 40;
   return (
     <div style={{
       ...style,
@@ -72,24 +68,32 @@ const Circle = ({size, color, style}) => {
       width: size,
       height: size,
       borderRadius: '50%',
-      display: 'inline-block',
+      display: 'block',
     }}/>
   )
 };
 
-const AirQualityPaper = connect(browserSelector)(({type, station, browser}) => {
+const AirQualityPaper = ({type, station}) => {
   const alertLevel = getAlertLevel(type, station);
   return (
-    <Paper style={{width: '95%', height: '95%', padding: 5, display: 'inline-block', textAlign: 'center'}}>
-      <h2 style={{margin: 0}}>{type === 'pm25' ? 'PM2.5' : type.toUpperCase()}</h2>
-      <Circle size={40} color={alertLevel.color} style={{marginTop: 5, marginBottom: 5}}/>
-      <p style={{fontWeight: 'bold', margin: 0}}>
-        {station && station.observation[type] ? `${station.observation[type]} ${getUnit(type)}` : '측정값 없음'}
-        {browser.greaterThan.small ? (<span><br/>{alertLevel.text}</span>) : ''}
-      </p>
+    <Paper style={{flex: 1, textAlign: 'center', margin: 5, display: 'flex', flexDirection: 'column'}}>
+      <h2 style={{margin: 0, flex: 0}}>{type === 'pm25' ? 'PM2.5' : type.toUpperCase()}</h2>
+      <div style={{flex: 1, display: 'flex'}}>
+        <div style={{flex: 1, display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
+          <Circle color={alertLevel.color}/>
+        </div>
+        <div style={{flex: 2, display: 'flex', flexDirection: 'column', justifyContent: 'center'}}>
+          <div>
+            {station && station.observation[type] ? `${station.observation[type]} ${getUnit(type)}` : '측정값 없음'}
+          </div>
+          <div>
+            {alertLevel.text}
+          </div>
+        </div>
+      </div>
     </Paper>
   );
-});
+};
 
 
 class CurrentStation extends Component {
@@ -104,22 +108,21 @@ class CurrentStation extends Component {
       flex: 0,
       color: 'gray',
       fontSize: '75%',
-      marginBottom: 20,
     };
     return (
-      <div style={{height: '100%', margin: 5, display: 'flex', flexDirection: 'column'}}>
+      <div style={{flex: 1, margin: 5, display: 'flex', flexDirection: 'column'}}>
         <h2 style={headerStyle}>{station ? `${station.stationName} 측정소` : '측정소 선택되지 않음'}</h2>
         <div style={subheaderStyle}>{station ? station.addr : '현재 위치를 지정해주세요.'}</div>
         <div style={{flex: 1, display: 'flex', flexDirection: 'column'}}>
           <div style={{flex: 1, display: 'flex'}}>
-            <div style={{flex: 1}}><AirQualityPaper type="pm25" station={station}/></div>
-            <div style={{flex: 1}}><AirQualityPaper type="pm10" station={station}/></div>
-            <div style={{flex: 1}}><AirQualityPaper type="o3" station={station}/></div>
+            <AirQualityPaper type="pm25" station={station}/>
+            <AirQualityPaper type="pm10" station={station}/>
+            <AirQualityPaper type="o3" station={station}/>
           </div>
           <div style={{flex: 1, display: 'flex'}}>
-            <div style={{flex: 1}}><AirQualityPaper type="no2" station={station}/></div>
-            <div style={{flex: 1}}><AirQualityPaper type="co" station={station}/></div>
-            <div style={{flex: 1}}><AirQualityPaper type="so2" station={station}/></div>
+            <AirQualityPaper type="no2" station={station}/>
+            <AirQualityPaper type="co" station={station}/>
+            <AirQualityPaper type="so2" station={station}/>
           </div>
         </div>
       </div>

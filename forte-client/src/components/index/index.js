@@ -54,7 +54,7 @@ class Index extends Component {
             }
           </GoogleMap>
         </div>
-        <div style={{width: '100%', flex: 1}}>
+        <div style={{width: '100%', flex: 1, display: 'flex', flexDirection: 'column'}}>
           <CurrentStation station={this.props.currentStation}/>
         </div>
       </div>
