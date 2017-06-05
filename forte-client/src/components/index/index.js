@@ -25,16 +25,17 @@ class Index extends Component {
       store.dispatch(setMapCenter(lat, lng));
     };
     return (
-      <div style={{display: 'flex', flexDirection: 'column', minHeight: '100%', width:'100%'}}>
+      <div style={{display: 'flex', flexDirection: 'column', height: '100%', width:'100%'}}>
         <div style={{width: '100%', flex: 0}}>
           <SearchBar stations={this.props.stations}/>
         </div>
-        <div style={{width: '100%', flex: 1}}>
+        <div style={{width: '100%', flex: 1, position: 'relative'}}>
           <GoogleMap
             bootstrapURLKeys={{
               key: "AIzaSyBUBNOFCXmHCkj2LcmI2f8tmYRN9-QPAqA",
               language: "ko",
             }}
+            style={{position: 'absolute', left: 0, top: 0, right: 0, bottom: 0}}
             center={this.props.center}
             zoom={13}
             onClick={onMapClick}
