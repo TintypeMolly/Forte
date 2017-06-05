@@ -8,6 +8,7 @@ import Marker from './marker';
 import {findNearestActiveStation} from './util'
 import CurrentStation from './current_station'
 import SearchBar from "./search_bar";
+import CurrentLocationMarker from './current_location_marker';
 
 class Index extends Component {
   componentDidMount() {
@@ -38,6 +39,7 @@ class Index extends Component {
             zoom={13}
             onClick={onMapClick}
           >
+            <CurrentLocationMarker lat={this.props.center.lat} lng={this.props.center.lng}/>
             {
               this.props.stations.map(station => (
                 <Marker
