@@ -21,7 +21,7 @@ class Base extends Component {
         <ResponsiveDrawer>
           <div>
             <MenuItem primaryText="홈" onTouchTap={moveTo('/')}/>
-            <MenuItem primaryText="안내" onTouchTap={moveTo('about')}/>
+            <MenuItem primaryText="소개" onTouchTap={moveTo('about')}/>
             <MenuItem primaryText="크레딧" onTouchTap={moveTo('/credit')}/>
           </div>
         </ResponsiveDrawer>
