@@ -6,13 +6,14 @@ import store from '../../store';
 import { getStationData, setCurrentStation, setMapCenter } from '../../actions';
 import Marker from './marker';
 import {findNearestActiveStation} from './util'
+import CurrentStation from './current_station'
 
 class Index extends Component {
   componentDidMount() {
     getStationData().then(action => {
       store.dispatch(action);
     }).catch(() => {
-      console.error('fail to fetch');
+      console.error('failed to fetch');
     });
   }
   render() {
@@ -42,7 +43,7 @@ class Index extends Component {
           </GoogleMap>
         </div>
         <div style={{width: '100%', flex: 1}}>
-          {this.props.currentStation ? JSON.stringify(this.props.currentStation) : '관측소를 선택하세요'}
+          <CurrentStation station={this.props.currentStation}/>
         </div>
       </div>
     );
