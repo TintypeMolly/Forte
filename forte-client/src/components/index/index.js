@@ -7,6 +7,7 @@ import { getStationData, setCurrentStation, setMapCenter } from '../../actions';
 import Marker from './marker';
 import {findNearestActiveStation} from './util'
 import CurrentStation from './current_station'
+import SearchBar from "./search_bar";
 
 class Index extends Component {
   componentDidMount() {
@@ -24,7 +25,7 @@ class Index extends Component {
     };
     return (
       <div style={{display: 'flex', flexDirection: 'column', minHeight: '100%', width:'100%'}}>
-        <div style={{width: '100%', flex: 0}}>This is index page</div>
+        <div style={{width: '100%', flex: 0}}><SearchBar/></div>
         <div style={{width: '100%', flex: 1}}>
           <GoogleMap
             bootstrapURLKeys={{
