@@ -25,7 +25,9 @@ class Index extends Component {
     };
     return (
       <div style={{display: 'flex', flexDirection: 'column', minHeight: '100%', width:'100%'}}>
-        <div style={{width: '100%', flex: 0}}><SearchBar/></div>
+        <div style={{width: '100%', flex: 0}}>
+          <SearchBar stations={this.props.stations}/>
+        </div>
         <div style={{width: '100%', flex: 1}}>
           <GoogleMap
             bootstrapURLKeys={{
@@ -38,7 +40,13 @@ class Index extends Component {
           >
             {
               this.props.stations.map(station => (
-                <Marker key={station.uuid} lat={station.dmX} lng={station.dmY} station={station}/>
+                <Marker
+                  key={station.uuid}
+                  lat={station.dmX}
+                  lng={station.dmY}
+                  station={station}
+                  current={this.props.currentStation && station.uuid === this.props.currentStation.uuid}
+                />
               ))
             }
           </GoogleMap>
