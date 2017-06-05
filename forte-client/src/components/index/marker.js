@@ -16,7 +16,7 @@ class Marker extends Component {
       height: 30,
       width: 40,
       borderRadius: '50%',
-      background: 'white',
+      background: this.props.current ? 'yellow' : 'white',
       paddingTop: 10,
       textAlign: 'center',
       border: `${color} solid 3px`,
