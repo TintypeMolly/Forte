@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import { Card, CardActions, CardHeader, CardText } from 'material-ui/Card';
+import React from 'react';
+import { Card, CardHeader, CardText } from 'material-ui/Card';
 
 import forteImage from './forte_avatar.png';
 

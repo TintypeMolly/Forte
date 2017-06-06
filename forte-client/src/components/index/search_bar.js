@@ -10,18 +10,19 @@ import {setMapCenter, setCurrentStation} from '../../actions';
 import {findNearestActiveStation} from './util'
 
 const searchAddress = (stations, addr) => {
-  const option = {key: 'AIzaSyBUBNOFCXmHCkj2LcmI2f8tmYRN9-QPAqA', language: 'ko'};
-  geocoder.geocode(addr, (err, data) => {
-    console.log(data);
-    if (data.status === 'OK') {
-      const location = data.results[0].geometry.location;
-      const nearestStation = findNearestActiveStation(stations, location.lat, location.lng);
-      store.dispatch(setCurrentStation(nearestStation));
-      store.dispatch(setMapCenter(location.lat, location.lng));
-    } else {
-      alert('주소 검색에 실패했습니다.');
-    }
-  }, option);
+  if (addr) {
+    const option = {key: 'AIzaSyBUBNOFCXmHCkj2LcmI2f8tmYRN9-QPAqA', language: 'ko'};
+    geocoder.geocode(addr, (err, data) => {
+      if (data.status === 'OK') {
+        const location = data.results[0].geometry.location;
+        const nearestStation = findNearestActiveStation(stations, location.lat, location.lng);
+        store.dispatch(setCurrentStation(nearestStation));
+        store.dispatch(setMapCenter(location.lat, location.lng));
+      } else {
+        alert('주소 검색에 실패했습니다.');
+      }
+    }, option);
+  }
 };
 
 class SearchBar extends Component {

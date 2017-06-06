@@ -12,11 +12,24 @@ import CurrentLocationMarker from './current_location_marker';
 
 class Index extends Component {
   componentDidMount() {
-    getStationData().then(action => {
-      store.dispatch(action);
-    }).catch(() => {
-      console.error('failed to fetch');
-    });
+    if (this.props.stations.length === 0) {
+      getStationData().then(action => {
+        store.dispatch(action);
+        if ("geolocation" in navigator) {
+          navigator.geolocation.getCurrentPosition(position => {
+            const nearestStation = findNearestActiveStation(this.props.stations, position.coords.latitude, position.coords.longitude);
+            store.dispatch(setCurrentStation(nearestStation));
+            store.dispatch(setMapCenter(position.coords.latitude, position.coords.longitude));
+          }, err => {
+            console.error(err);
+          });
+        } else {
+          alert("Geolocation을 사용할 수 없는 브라우저입니다.");
+        }
+      }).catch(() => {
+        console.error('failed to fetch');
+      });
+    }
   }
   render() {
     const onMapClick = ({x, y, lat, lng, event}) => {
