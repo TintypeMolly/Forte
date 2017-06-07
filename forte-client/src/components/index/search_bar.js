@@ -71,10 +71,10 @@ class SearchBar extends Component {
           onKeyDown={onKeyDown}
           onChange={onTextChange}
         />
-        <IconButton style={iconButtonStyle} onTouchTap={onSearchTap}>
+        <IconButton tooltip="검색 버튼" style={iconButtonStyle} onTouchTap={onSearchTap}>
           <SearchIcon/>
         </IconButton>
-        <IconButton style={iconButtonStyle} onTouchTap={onMyLocationTap}>
+        <IconButton tooltip="GPS 위치로" style={iconButtonStyle} onTouchTap={onMyLocationTap}>
           <MyLocationIcon/>
         </IconButton>
       </div>
