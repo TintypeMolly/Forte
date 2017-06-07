@@ -28,26 +28,28 @@ const About = () => {
           또한 GPS를 통해서 현재 위치를 자동으로 판별하는 기능을 제공하는 곳은 찾기 어렵습니다.
         </p>
         <h3>기능 설명</h3>
-        <h4>기본구조</h4>
-        <p></p>
+        <h4>구조</h4>
+        <p>TODO</p>
         <h4>Geolocation API 사용</h4>
         <p>
-          빽뺵한 지도를 힘들게 클릭하거나 도시 단위의 대략적인 정보를 볼 필요가 없습니다.
+          작아서 보기도 힘든 지도를 어렵게 클릭하거나 도시 단위의 대략적인 정보를 볼 필요가 없습니다.
           Geolocation API를 통해 GPS정보를 받아서 자동으로 현재 위치로부터 가장 가까운 관측소를 찾습니다.
         </p>
         <h4>Responsive Design</h4>
-        <figure>
-          <img src={mobileScreenshot} alt="모바일 화면에서의 홈페이지 레이아웃을 보여주는 스크린샷"/>
-          <figcaption>모바일 화면 레이아웃</figcaption>
-        </figure>
-        <figure>
-          <img src={mediumScreenshot} alt="중간 크기 화면에서의 홈페이지 레이아웃을 보여주는 스크린샷"/>
-          <figcaption>중간 크기 화면 레이아웃</figcaption>
-        </figure>
-        <figure>
-          <img src={bigScreenshot} alt="큰 화면에서의 홈페이지 레이아웃을 보여주는 스크린샷"/>
-          <figcaption>큰 화면 레이아웃</figcaption>
-        </figure>
+        <div className="figures">
+          <figure>
+            <img src={mobileScreenshot} alt="모바일 화면에서의 홈페이지 레이아웃을 보여주는 스크린샷"/>
+            <figcaption>모바일 화면 레이아웃</figcaption>
+          </figure>
+          <figure>
+            <img src={mediumScreenshot} alt="중간 크기 화면에서의 홈페이지 레이아웃을 보여주는 스크린샷"/>
+            <figcaption>중간 크기 화면 레이아웃</figcaption>
+          </figure>
+          <figure>
+            <img src={bigScreenshot} alt="큰 화면에서의 홈페이지 레이아웃을 보여주는 스크린샷"/>
+            <figcaption>큰 화면 레이아웃</figcaption>
+          </figure>
+        </div>
         <p>
           별도의 모바일 페이지를 만들지 않고, 한 페이지 내에서 스크린 크기에 따라 반응하여 레이아웃을 적절하게 실시간으로 변경합니다.
         </p>
