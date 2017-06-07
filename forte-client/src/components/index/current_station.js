@@ -1,5 +1,10 @@
 import React, { Component } from 'react';
 import Paper from 'material-ui/Paper';
+import {connect} from 'react-redux'
+
+function browserSelector({browser}) {
+  return {browser}
+}
 
 const getUnit = (type) => {
   switch (type) {
@@ -63,37 +68,51 @@ const Circle = ({color, style}) => {
   const size = 40;
   return (
     <div style={{
-      ...style,
       background: color,
       width: size,
       height: size,
       borderRadius: '50%',
-      display: 'block',
+      margin: '0 auto',
+      ...style,
     }}/>
   )
 };
 
-const AirQualityPaper = ({type, station}) => {
+const AirQualityPaper = connect(browserSelector)(({type, station, browser}) => {
   const alertLevel = getAlertLevel(type, station);
-  return (
-    <Paper style={{flex: 1, textAlign: 'center', margin: 5, display: 'flex', flexDirection: 'column'}}>
-      <h2 style={{margin: 0, flex: 0}}>{type === 'pm25' ? 'PM2.5' : type.toUpperCase()}</h2>
-      <div style={{flex: 1, display: 'flex'}}>
-        <div style={{flex: 1, display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
+  if (browser.greaterThan.small) {
+    return (
+      <Paper style={{flex: 1, textAlign: 'center', margin: 5, display: 'flex', flexDirection: 'column'}}>
+        <h2 style={{margin: 0, flex: 0}}>{type === 'pm25' ? 'PM2.5' : type.toUpperCase()}</h2>
+        <div style={{flex: 1, display: 'flex'}}>
+          <div style={{flex: 1, display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
+            <Circle color={alertLevel.color}/>
+          </div>
+          <div style={{flex: 2, display: 'flex', flexDirection: 'column', justifyContent: 'center'}}>
+            <div>
+              {station && station.observation[type] ? `${station.observation[type]} ${getUnit(type)}` : '측정값 없음'}
+            </div>
+            <div>
+              {alertLevel.text}
+            </div>
+          </div>
+        </div>
+      </Paper>
+    );
+  } else {
+    return (
+      <Paper style={{flex: 1, textAlign: 'center', margin: 5, display: 'flex', flexDirection: 'column'}}>
+        <h2 style={{margin: 0, flex: 0}}>{type === 'pm25' ? 'PM2.5' : type.toUpperCase()}</h2>
+        <div style={{textAlign: 'center'}}>
           <Circle color={alertLevel.color}/>
         </div>
-        <div style={{flex: 2, display: 'flex', flexDirection: 'column', justifyContent: 'center'}}>
-          <div>
-            {station && station.observation[type] ? `${station.observation[type]} ${getUnit(type)}` : '측정값 없음'}
-          </div>
-          <div>
-            {alertLevel.text}
-          </div>
+        <div>
+          {station && station.observation[type] ? `${station.observation[type]} ${getUnit(type)}` : '측정값 없음'}
         </div>
-      </div>
-    </Paper>
-  );
-};
+      </Paper>
+    );
+  }
+});
 
 
 class CurrentStation extends Component {
