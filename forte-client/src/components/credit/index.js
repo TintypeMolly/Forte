@@ -12,6 +12,10 @@ const Credit = () => {
   const cardStyle = {marginBottom: 10, marginRight: 10, display: 'inline-block'};
   const thridParties = [
     {
+      name: 'create-react-app',
+      homepage: 'https://github.com/facebookincubator/create-react-app',
+      license: 'https://github.com/facebookincubator/create-react-app/blob/master/LICENSE',
+    }, {
       name: 'babel',
       homepage: 'https://babeljs.io/',
       license: 'https://github.com/babel/babel/blob/master/LICENSE',
