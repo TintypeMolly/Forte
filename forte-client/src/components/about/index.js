@@ -8,8 +8,8 @@ import './about.css';
 
 const About = () => {
   return (
-    <div className="about" style={{padding: 10, width: '100%'}}>
-      <Paper style={{padding: 10, width: '100%', marginBottom: 10}}>
+    <div className="about" style={{padding: 10, width: 'calc(100% - 20px)'}}>
+      <Paper style={{padding: 10, width: '100%'}}>
         <h2>이 웹사이트에 대하여</h2>
         <h3>개요</h3>
         <p>

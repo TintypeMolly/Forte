@@ -36,7 +36,7 @@ class Base extends Component {
           <ResponsiveAppBar
             title="Forte"
           />
-          <div style={{marginTop: 64, height: 'calc(100% - 74px)', display: 'flex'}}>
+          <div style={{marginTop: 64, display: 'flex'}}>
             {this.props.children}
           </div>
         </BodyContainer>

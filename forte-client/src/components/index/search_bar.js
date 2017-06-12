@@ -31,16 +31,6 @@ class SearchBar extends Component {
     this.textFieldValue = '';
   }
   render() {
-    const textFieldStyle = {
-      flex: 1,
-      marginLeft: 5,
-      marginRight: 5,
-    };
-    const iconButtonStyle = {
-      display: 'inline-block',
-      width: 48,
-      height: 48,
-    };
     const onMyLocationTap = () => {
       if ("geolocation" in navigator) {
         navigator.geolocation.getCurrentPosition((position) => {
@@ -63,20 +53,43 @@ class SearchBar extends Component {
     const onTextChange = (e, newValue) => {
       this.textFieldValue = newValue;
     };
+    const textFieldStyle = {
+      flex: 1,
+      marginLeft: 5,
+      marginRight: 5,
+    };
+    const iconButtonStyle = {
+      flex: 0,
+      display: 'inline-block',
+      width: 48,
+      height: 48,
+    };
     return (
-      <div style={{display: 'flex'}}>
-        <TextField
-          style={textFieldStyle}
-          hintText="주소를 입력하세요"
-          onKeyDown={onKeyDown}
-          onChange={onTextChange}
-        />
-        <IconButton tooltip="검색 버튼" style={iconButtonStyle} onTouchTap={onSearchTap}>
-          <SearchIcon/>
-        </IconButton>
-        <IconButton tooltip="GPS 위치로" style={iconButtonStyle} onTouchTap={onMyLocationTap}>
-          <MyLocationIcon/>
-        </IconButton>
+      <div style={{flex: 0, width: '100%'}}>
+        <div style={{display: 'flex', height: 48}}>
+          <TextField
+            style={textFieldStyle}
+            hintText="주소를 입력하세요"
+            onKeyDown={onKeyDown}
+            onChange={onTextChange}
+          />
+          <IconButton
+            tooltip="검색 버튼"
+            style={iconButtonStyle}
+            onTouchTap={onSearchTap}
+            tooltipPosition="bottom-left"
+          >
+            <SearchIcon/>
+          </IconButton>
+          <IconButton
+            tooltip="GPS 위치로"
+            style={iconButtonStyle}
+            onTouchTap={onMyLocationTap}
+            tooltipPosition="bottom-left"
+          >
+            <MyLocationIcon/>
+          </IconButton>
+        </div>
       </div>
     )
   }
